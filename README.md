@@ -6,8 +6,8 @@ Each request is uniquely identified by a number (letters:1, parcels:2, money ser
 
 ## Startup:
 $ ./proj2 NZ NU TZ TU F 
-> NZ: number of customers 
-> NU: number of clerks 
-> TZ: Maximum time in milliseconds for which a customer waits after being created before entering the post office (eventually leaving with nothing). 0<=TZ<=10000 
-> TU: Maximum length of official break in milliseconds. 0<=TU<=100 
-> F: Maximum time in milliseconds after which mail is closed for new arrivals. 0<=F<=10000
++ NZ: number of customers 
++ NU: number of clerks 
++ TZ: Maximum time in milliseconds for which a customer waits after being created before entering the post office (eventually leaving with nothing). 0<=TZ<=10000 
++ TU: Maximum length of official break in milliseconds. 0<=TU<=100 
++ F: Maximum time in milliseconds after which mail is closed for new arrivals. 0<=F<=10000
