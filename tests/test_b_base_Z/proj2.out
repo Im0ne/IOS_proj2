@@ -1,0 +1,75 @@
+1: U 1: started
+2: U 1: taking break
+3: U 2: started
+4: U 2: taking break
+5: Z 1: started
+6: Z 5: started
+7: Z 3: started
+8: Z 2: started
+9: Z 4: started
+10: U 1: break finished
+11: U 1: taking break
+12: Z 2: entering office for a service 1
+13: Z 3: entering office for a service 3
+14: U 1: break finished
+15: U 1: serving a service of type 1
+16: Z 2: called by office worker
+17: U 1: service finished
+18: U 1: serving a service of type 3
+19: Z 2: going home
+20: Z 3: called by office worker
+21: U 2: break finished
+22: U 2: taking break
+23: Z 1: entering office for a service 3
+24: Z 5: entering office for a service 2
+25: Z 4: entering office for a service 2
+26: Z 3: going home
+27: U 1: service finished
+28: U 1: serving a service of type 2
+29: Z 5: called by office worker
+30: U 2: break finished
+31: U 2: serving a service of type 2
+32: Z 4: called by office worker
+33: U 2: service finished
+34: U 2: serving a service of type 3
+35: Z 1: called by office worker
+36: Z 1: going home
+37: U 1: service finished
+38: U 1: taking break
+39: Z 5: going home
+40: U 1: break finished
+41: U 1: taking break
+42: Z 4: going home
+43: U 2: service finished
+44: U 2: taking break
+45: U 2: break finished
+46: U 2: taking break
+47: U 2: break finished
+48: U 2: taking break
+49: U 1: break finished
+50: U 1: taking break
+51: U 2: break finished
+52: U 2: taking break
+53: U 2: break finished
+54: U 2: taking break
+55: U 1: break finished
+56: U 1: taking break
+57: U 2: break finished
+58: U 2: taking break
+59: U 2: break finished
+60: U 2: taking break
+61: U 1: break finished
+62: U 1: taking break
+63: U 2: break finished
+64: U 2: taking break
+65: U 1: break finished
+66: U 1: taking break
+67: U 2: break finished
+68: U 2: taking break
+69: U 1: break finished
+70: U 1: taking break
+71: closing
+72: U 2: break finished
+73: U 2: going home
+74: U 1: break finished
+75: U 1: going home

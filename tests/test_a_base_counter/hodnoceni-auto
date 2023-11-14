@@ -1,0 +1,5 @@
+= base_* : zakladni testy
+Alarm clock
+#:0:xonufr00: chyba pri spusteni, mozne priciny:
+#:chybny soubor, timeout 5s nebo limit velikosti souboru
+0:test_a_base_counter: zablokovani nebo segmentation fault
