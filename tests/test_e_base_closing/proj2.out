@@ -1,0 +1,57 @@
+1: U 1: started
+2: U 1: taking break
+3: U 2: started
+4: U 2: taking break
+5: U 3: started
+6: U 3: taking break
+7: Z 2: started
+8: Z 5: started
+9: Z 4: started
+10: Z 1: started
+11: Z 3: started
+12: Z 6: started
+13: Z 2: entering office for a service 3
+14: Z 7: started
+15: Z 8: started
+16: Z 9: started
+17: Z 10: started
+18: Z 11: started
+19: Z 12: started
+20: Z 13: started
+21: Z 14: started
+22: Z 15: started
+23: Z 16: started
+24: Z 17: started
+25: Z 18: started
+26: Z 19: started
+27: Z 20: started
+28: closing
+29: Z 7: going home
+30: Z 11: going home
+31: Z 12: going home
+32: U 2: break finished
+33: U 2: serving a service of type 3
+34: Z 2: called by office worker
+35: Z 9: going home
+36: Z 14: going home
+37: Z 17: going home
+38: Z 19: going home
+39: Z 4: going home
+40: Z 3: going home
+41: Z 5: going home
+42: Z 1: going home
+43: Z 6: going home
+44: Z 16: going home
+45: Z 18: going home
+46: Z 20: going home
+47: Z 8: going home
+48: Z 10: going home
+49: Z 15: going home
+50: Z 2: going home
+51: Z 13: going home
+52: U 2: service finished
+53: U 2: going home
+54: U 1: break finished
+55: U 1: going home
+56: U 3: break finished
+57: U 3: going home

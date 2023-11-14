@@ -1,0 +1,1015 @@
+1: U 1: started
+2: U 1: taking break
+3: U 3: started
+4: U 3: taking break
+5: U 4: started
+6: U 4: taking break
+7: U 1: break finished
+8: U 1: taking break
+9: Z 3: started
+10: U 2: started
+11: Z 3: entering office for a service 1
+12: Z 2: started
+13: Z 4: started
+14: Z 5: started
+15: Z 10: started
+16: U 2: taking break
+17: Z 11: started
+18: Z 12: started
+19: Z 8: started
+20: Z 9: started
+21: Z 1: started
+22: Z 6: started
+23: Z 1: entering office for a service 3
+24: Z 18: started
+25: Z 19: started
+26: Z 15: started
+27: Z 16: started
+28: Z 17: started
+29: Z 7: started
+30: Z 13: started
+31: Z 14: started
+32: U 4: break finished
+33: U 4: serving a service of type 1
+34: U 1: break finished
+35: Z 21: started
+36: Z 22: started
+37: Z 29: started
+38: Z 23: started
+39: Z 24: started
+40: Z 25: started
+41: Z 26: started
+42: Z 34: started
+43: Z 27: started
+44: Z 36: started
+45: Z 37: started
+46: Z 1: called by office worker
+47: Z 38: started
+48: Z 39: started
+49: Z 40: started
+50: U 2: break finished
+51: U 2: taking break
+52: Z 32: started
+53: Z 33: started
+54: Z 20: started
+55: Z 35: started
+56: Z 3: called by office worker
+57: U 1: serving a service of type 3
+58: Z 28: started
+59: Z 15: entering office for a service 3
+60: Z 30: started
+61: Z 41: started
+62: Z 31: started
+63: Z 42: started
+64: Z 43: started
+65: Z 44: started
+66: Z 45: started
+67: Z 46: started
+68: Z 4: entering office for a service 1
+69: Z 47: started
+70: Z 48: started
+71: Z 49: started
+72: Z 50: started
+73: Z 51: started
+74: Z 22: entering office for a service 3
+75: Z 25: entering office for a service 1
+76: Z 16: entering office for a service 2
+77: Z 35: entering office for a service 3
+78: Z 18: entering office for a service 3
+79: Z 21: entering office for a service 1
+80: Z 31: entering office for a service 1
+81: Z 19: entering office for a service 1
+82: Z 11: entering office for a service 2
+83: Z 47: entering office for a service 3
+84: Z 9: entering office for a service 3
+85: Z 48: entering office for a service 3
+86: Z 20: entering office for a service 3
+87: Z 51: entering office for a service 1
+88: Z 28: entering office for a service 2
+89: Z 29: entering office for a service 3
+90: Z 40: entering office for a service 2
+91: Z 27: entering office for a service 2
+92: Z 17: entering office for a service 1
+93: Z 5: entering office for a service 2
+94: Z 10: entering office for a service 2
+95: Z 23: entering office for a service 2
+96: Z 12: entering office for a service 1
+97: Z 24: entering office for a service 2
+98: Z 8: entering office for a service 3
+99: Z 26: entering office for a service 2
+100: U 3: break finished
+101: Z 34: entering office for a service 1
+102: U 3: serving a service of type 3
+103: Z 15: called by office worker
+104: Z 36: entering office for a service 1
+105: Z 6: entering office for a service 1
+106: Z 33: entering office for a service 1
+107: Z 2: entering office for a service 3
+108: Z 7: entering office for a service 3
+109: Z 3: going home
+110: Z 13: entering office for a service 1
+111: U 4: service finished
+112: U 4: serving a service of type 1
+113: Z 4: called by office worker
+114: Z 49: entering office for a service 2
+115: Z 37: entering office for a service 3
+116: Z 1: going home
+117: Z 39: entering office for a service 2
+118: Z 32: entering office for a service 2
+119: Z 14: entering office for a service 1
+120: Z 30: entering office for a service 1
+121: Z 41: entering office for a service 2
+122: Z 4: going home
+123: Z 43: entering office for a service 2
+124: Z 50: entering office for a service 2
+125: Z 38: entering office for a service 2
+126: U 2: break finished
+127: U 2: serving a service of type 1
+128: Z 25: called by office worker
+129: Z 42: entering office for a service 2
+130: Z 44: entering office for a service 1
+131: Z 46: entering office for a service 3
+132: Z 45: entering office for a service 3
+133: U 2: service finished
+134: U 2: serving a service of type 3
+135: Z 22: called by office worker
+136: Z 15: going home
+137: U 1: service finished
+138: U 1: serving a service of type 2
+139: Z 16: called by office worker
+140: U 3: service finished
+141: U 3: serving a service of type 2
+142: Z 11: called by office worker
+143: U 3: service finished
+144: U 3: serving a service of type 2
+145: Z 28: called by office worker
+146: Z 25: going home
+147: U 1: service finished
+148: U 1: serving a service of type 2
+149: Z 40: called by office worker
+150: U 4: service finished
+151: U 4: serving a service of type 3
+152: Z 35: called by office worker
+153: Z 28: going home
+154: U 2: service finished
+155: U 2: serving a service of type 2
+156: Z 16: going home
+157: Z 27: called by office worker
+158: Z 22: going home
+159: Z 35: going home
+160: U 1: service finished
+161: Z 40: going home
+162: Z 21: called by office worker
+163: U 1: serving a service of type 1
+164: U 3: service finished
+165: U 3: serving a service of type 1
+166: Z 31: called by office worker
+167: Z 31: going home
+168: Z 21: going home
+169: Z 11: going home
+170: U 4: service finished
+171: U 4: serving a service of type 2
+172: Z 5: called by office worker
+173: Z 5: going home
+174: U 3: service finished
+175: U 3: serving a service of type 2
+176: Z 10: called by office worker
+177: U 2: service finished
+178: U 2: serving a service of type 3
+179: Z 18: called by office worker
+180: Z 27: going home
+181: U 2: service finished
+182: U 2: serving a service of type 2
+183: Z 23: called by office worker
+184: U 1: service finished
+185: U 1: serving a service of type 1
+186: Z 19: called by office worker
+187: U 4: service finished
+188: U 4: serving a service of type 3
+189: Z 47: called by office worker
+190: U 1: service finished
+191: U 1: serving a service of type 2
+192: Z 24: called by office worker
+193: Z 19: going home
+194: U 1: service finished
+195: U 1: serving a service of type 1
+196: Z 51: called by office worker
+197: Z 23: going home
+198: U 2: service finished
+199: U 2: serving a service of type 1
+200: Z 17: called by office worker
+201: Z 17: going home
+202: U 1: service finished
+203: U 1: serving a service of type 2
+204: Z 26: called by office worker
+205: Z 24: going home
+206: Z 47: going home
+207: Z 10: going home
+208: Z 18: going home
+209: U 4: service finished
+210: U 4: serving a service of type 3
+211: Z 9: called by office worker
+212: U 3: service finished
+213: U 3: serving a service of type 2
+214: Z 49: called by office worker
+215: Z 49: going home
+216: Z 9: going home
+217: Z 26: going home
+218: Z 51: going home
+219: U 1: service finished
+220: U 1: serving a service of type 1
+221: Z 12: called by office worker
+222: U 2: service finished
+223: U 2: serving a service of type 1
+224: Z 34: called by office worker
+225: Z 12: going home
+226: U 3: service finished
+227: U 3: serving a service of type 2
+228: Z 39: called by office worker
+229: U 1: service finished
+230: U 1: serving a service of type 1
+231: Z 36: called by office worker
+232: Z 36: going home
+233: U 4: service finished
+234: U 4: serving a service of type 3
+235: Z 48: called by office worker
+236: Z 34: going home
+237: Z 39: going home
+238: U 1: service finished
+239: U 1: serving a service of type 2
+240: Z 32: called by office worker
+241: U 3: service finished
+242: U 3: serving a service of type 3
+243: Z 20: called by office worker
+244: Z 32: going home
+245: Z 20: going home
+246: U 2: service finished
+247: U 2: serving a service of type 1
+248: Z 6: called by office worker
+249: U 3: service finished
+250: U 3: serving a service of type 2
+251: Z 41: called by office worker
+252: U 4: service finished
+253: U 4: serving a service of type 2
+254: Z 43: called by office worker
+255: U 2: service finished
+256: U 2: serving a service of type 1
+257: Z 33: called by office worker
+258: Z 33: going home
+259: U 3: service finished
+260: U 3: serving a service of type 2
+261: Z 50: called by office worker
+262: Z 48: going home
+263: U 4: service finished
+264: U 4: serving a service of type 3
+265: Z 43: going home
+266: U 4: service finished
+267: U 4: serving a service of type 3
+268: Z 29: called by office worker
+269: Z 8: called by office worker
+270: Z 8: going home
+271: U 1: service finished
+272: U 1: serving a service of type 2
+273: Z 38: called by office worker
+274: U 1: service finished
+275: U 1: serving a service of type 1
+276: Z 13: called by office worker
+277: U 2: service finished
+278: U 2: serving a service of type 3
+279: Z 2: called by office worker
+280: Z 38: going home
+281: Z 2: going home
+282: Z 13: going home
+283: Z 6: going home
+284: Z 29: going home
+285: Z 41: going home
+286: Z 50: going home
+287: U 4: service finished
+288: U 4: serving a service of type 1
+289: Z 14: called by office worker
+290: U 3: service finished
+291: U 3: serving a service of type 1
+292: Z 30: called by office worker
+293: U 2: service finished
+294: U 2: serving a service of type 2
+295: Z 42: called by office worker
+296: U 1: service finished
+297: U 1: serving a service of type 1
+298: Z 44: called by office worker
+299: Z 44: going home
+300: U 3: service finished
+301: U 3: serving a service of type 3
+302: Z 7: called by office worker
+303: U 2: service finished
+304: U 2: serving a service of type 3
+305: Z 37: called by office worker
+306: Z 30: going home
+307: Z 14: going home
+308: U 2: service finished
+309: U 2: serving a service of type 3
+310: Z 46: called by office worker
+311: U 2: service finished
+312: U 2: serving a service of type 3
+313: Z 45: called by office worker
+314: Z 45: going home
+315: U 3: service finished
+316: U 3: taking break
+317: Z 42: going home
+318: U 1: service finished
+319: U 1: taking break
+320: U 4: service finished
+321: U 4: taking break
+322: U 4: break finished
+323: U 4: taking break
+324: U 3: break finished
+325: U 3: taking break
+326: Z 7: going home
+327: U 3: break finished
+328: U 3: taking break
+329: U 4: break finished
+330: U 4: taking break
+331: Z 46: going home
+332: U 2: service finished
+333: U 2: taking break
+334: U 2: break finished
+335: U 2: taking break
+336: Z 37: going home
+337: U 4: break finished
+338: U 4: taking break
+339: U 1: break finished
+340: U 1: taking break
+341: U 2: break finished
+342: U 2: taking break
+343: U 2: break finished
+344: U 2: taking break
+345: U 2: break finished
+346: U 2: taking break
+347: U 3: break finished
+348: U 3: taking break
+349: U 3: break finished
+350: U 3: taking break
+351: U 1: break finished
+352: U 1: taking break
+353: U 3: break finished
+354: U 3: taking break
+355: U 4: break finished
+356: U 4: taking break
+357: U 4: break finished
+358: U 4: taking break
+359: U 1: break finished
+360: U 1: taking break
+361: U 2: break finished
+362: U 2: taking break
+363: U 2: break finished
+364: U 2: taking break
+365: U 3: break finished
+366: U 3: taking break
+367: U 4: break finished
+368: U 4: taking break
+369: U 1: break finished
+370: U 1: taking break
+371: U 3: break finished
+372: U 3: taking break
+373: U 2: break finished
+374: U 2: taking break
+375: U 1: break finished
+376: U 1: taking break
+377: U 4: break finished
+378: U 4: taking break
+379: U 4: break finished
+380: U 4: taking break
+381: U 3: break finished
+382: U 3: taking break
+383: U 2: break finished
+384: U 2: taking break
+385: U 2: break finished
+386: U 2: taking break
+387: U 1: break finished
+388: U 1: taking break
+389: U 3: break finished
+390: U 3: taking break
+391: U 4: break finished
+392: U 4: taking break
+393: U 1: break finished
+394: U 1: taking break
+395: U 1: break finished
+396: U 1: taking break
+397: U 1: break finished
+398: U 1: taking break
+399: U 2: break finished
+400: U 2: taking break
+401: U 3: break finished
+402: U 3: taking break
+403: U 2: break finished
+404: U 2: taking break
+405: U 2: break finished
+406: U 2: taking break
+407: U 2: break finished
+408: U 2: taking break
+409: U 2: break finished
+410: U 2: taking break
+411: U 3: break finished
+412: U 3: taking break
+413: U 4: break finished
+414: U 4: taking break
+415: U 2: break finished
+416: U 2: taking break
+417: U 3: break finished
+418: U 3: taking break
+419: U 2: break finished
+420: U 2: taking break
+421: U 2: break finished
+422: U 2: taking break
+423: U 1: break finished
+424: U 1: taking break
+425: U 1: break finished
+426: U 1: taking break
+427: U 1: break finished
+428: U 1: taking break
+429: U 1: break finished
+430: U 1: taking break
+431: U 3: break finished
+432: U 3: taking break
+433: U 4: break finished
+434: U 4: taking break
+435: U 2: break finished
+436: U 2: taking break
+437: U 1: break finished
+438: U 1: taking break
+439: U 4: break finished
+440: U 4: taking break
+441: U 2: break finished
+442: U 2: taking break
+443: U 2: break finished
+444: U 2: taking break
+445: U 2: break finished
+446: U 2: taking break
+447: U 3: break finished
+448: U 3: taking break
+449: U 4: break finished
+450: U 4: taking break
+451: U 1: break finished
+452: U 1: taking break
+453: U 3: break finished
+454: U 3: taking break
+455: U 1: break finished
+456: U 1: taking break
+457: U 2: break finished
+458: U 2: taking break
+459: U 1: break finished
+460: U 1: taking break
+461: U 4: break finished
+462: U 4: taking break
+463: U 1: break finished
+464: U 1: taking break
+465: U 4: break finished
+466: U 4: taking break
+467: U 3: break finished
+468: U 3: taking break
+469: U 1: break finished
+470: U 1: taking break
+471: U 2: break finished
+472: U 2: taking break
+473: U 1: break finished
+474: U 1: taking break
+475: U 1: break finished
+476: U 1: taking break
+477: U 3: break finished
+478: U 3: taking break
+479: U 4: break finished
+480: U 4: taking break
+481: U 3: break finished
+482: U 3: taking break
+483: U 4: break finished
+484: U 4: taking break
+485: U 2: break finished
+486: U 2: taking break
+487: U 3: break finished
+488: U 3: taking break
+489: U 2: break finished
+490: U 2: taking break
+491: U 3: break finished
+492: U 3: taking break
+493: U 4: break finished
+494: U 4: taking break
+495: U 2: break finished
+496: U 2: taking break
+497: U 3: break finished
+498: U 3: taking break
+499: U 1: break finished
+500: U 1: taking break
+501: U 4: break finished
+502: U 4: taking break
+503: U 1: break finished
+504: U 1: taking break
+505: U 4: break finished
+506: U 4: taking break
+507: U 2: break finished
+508: U 2: taking break
+509: U 3: break finished
+510: U 3: taking break
+511: U 1: break finished
+512: U 1: taking break
+513: U 2: break finished
+514: U 2: taking break
+515: U 4: break finished
+516: U 4: taking break
+517: U 4: break finished
+518: U 4: taking break
+519: U 3: break finished
+520: U 3: taking break
+521: U 2: break finished
+522: U 2: taking break
+523: U 1: break finished
+524: U 1: taking break
+525: U 1: break finished
+526: U 1: taking break
+527: U 1: break finished
+528: U 1: taking break
+529: U 3: break finished
+530: U 3: taking break
+531: U 4: break finished
+532: U 4: taking break
+533: U 2: break finished
+534: U 2: taking break
+535: U 2: break finished
+536: U 2: taking break
+537: U 4: break finished
+538: U 4: taking break
+539: U 1: break finished
+540: U 1: taking break
+541: U 2: break finished
+542: U 2: taking break
+543: U 4: break finished
+544: U 4: taking break
+545: U 4: break finished
+546: U 4: taking break
+547: U 3: break finished
+548: U 3: taking break
+549: U 1: break finished
+550: U 1: taking break
+551: U 1: break finished
+552: U 1: taking break
+553: U 2: break finished
+554: U 2: taking break
+555: U 4: break finished
+556: U 4: taking break
+557: U 3: break finished
+558: U 3: taking break
+559: U 1: break finished
+560: U 1: taking break
+561: U 3: break finished
+562: U 3: taking break
+563: U 3: break finished
+564: U 3: taking break
+565: U 4: break finished
+566: U 4: taking break
+567: U 2: break finished
+568: U 2: taking break
+569: U 3: break finished
+570: U 3: taking break
+571: U 4: break finished
+572: U 4: taking break
+573: U 1: break finished
+574: U 1: taking break
+575: U 2: break finished
+576: U 2: taking break
+577: U 2: break finished
+578: U 2: taking break
+579: U 1: break finished
+580: U 1: taking break
+581: U 3: break finished
+582: U 3: taking break
+583: U 4: break finished
+584: U 4: taking break
+585: U 3: break finished
+586: U 3: taking break
+587: U 2: break finished
+588: U 2: taking break
+589: U 1: break finished
+590: U 1: taking break
+591: U 1: break finished
+592: U 1: taking break
+593: U 4: break finished
+594: U 4: taking break
+595: U 3: break finished
+596: U 3: taking break
+597: U 1: break finished
+598: U 1: taking break
+599: U 3: break finished
+600: U 3: taking break
+601: U 2: break finished
+602: U 2: taking break
+603: U 3: break finished
+604: U 3: taking break
+605: U 4: break finished
+606: U 4: taking break
+607: U 3: break finished
+608: U 3: taking break
+609: U 3: break finished
+610: U 3: taking break
+611: U 2: break finished
+612: U 2: taking break
+613: U 1: break finished
+614: U 1: taking break
+615: U 3: break finished
+616: U 3: taking break
+617: U 3: break finished
+618: U 3: taking break
+619: U 1: break finished
+620: U 1: taking break
+621: U 1: break finished
+622: U 1: taking break
+623: U 2: break finished
+624: U 2: taking break
+625: U 1: break finished
+626: U 1: taking break
+627: U 4: break finished
+628: U 4: taking break
+629: U 2: break finished
+630: U 2: taking break
+631: U 1: break finished
+632: U 1: taking break
+633: U 3: break finished
+634: U 3: taking break
+635: U 4: break finished
+636: U 4: taking break
+637: U 4: break finished
+638: U 4: taking break
+639: U 4: break finished
+640: U 4: taking break
+641: U 2: break finished
+642: U 2: taking break
+643: U 1: break finished
+644: U 1: taking break
+645: U 2: break finished
+646: U 2: taking break
+647: U 3: break finished
+648: U 3: taking break
+649: U 2: break finished
+650: U 2: taking break
+651: U 4: break finished
+652: U 4: taking break
+653: U 4: break finished
+654: U 4: taking break
+655: U 1: break finished
+656: U 1: taking break
+657: U 3: break finished
+658: U 3: taking break
+659: U 3: break finished
+660: U 3: taking break
+661: U 1: break finished
+662: U 1: taking break
+663: U 1: break finished
+664: U 1: taking break
+665: U 2: break finished
+666: U 2: taking break
+667: U 4: break finished
+668: U 4: taking break
+669: U 2: break finished
+670: U 2: taking break
+671: U 2: break finished
+672: U 2: taking break
+673: U 1: break finished
+674: U 1: taking break
+675: U 1: break finished
+676: U 1: taking break
+677: U 2: break finished
+678: U 2: taking break
+679: U 3: break finished
+680: U 3: taking break
+681: U 1: break finished
+682: U 1: taking break
+683: U 4: break finished
+684: U 4: taking break
+685: U 3: break finished
+686: U 3: taking break
+687: U 1: break finished
+688: U 1: taking break
+689: U 3: break finished
+690: U 3: taking break
+691: U 2: break finished
+692: U 2: taking break
+693: U 1: break finished
+694: U 1: taking break
+695: U 4: break finished
+696: U 4: taking break
+697: U 1: break finished
+698: U 1: taking break
+699: U 2: break finished
+700: U 2: taking break
+701: U 3: break finished
+702: U 3: taking break
+703: U 4: break finished
+704: U 4: taking break
+705: U 2: break finished
+706: U 2: taking break
+707: U 1: break finished
+708: U 1: taking break
+709: U 1: break finished
+710: U 1: taking break
+711: U 1: break finished
+712: U 1: taking break
+713: U 1: break finished
+714: U 1: taking break
+715: U 3: break finished
+716: U 3: taking break
+717: U 1: break finished
+718: U 1: taking break
+719: U 4: break finished
+720: U 4: taking break
+721: U 2: break finished
+722: U 2: taking break
+723: U 2: break finished
+724: U 2: taking break
+725: U 2: break finished
+726: U 2: taking break
+727: U 1: break finished
+728: U 1: taking break
+729: U 1: break finished
+730: U 1: taking break
+731: U 3: break finished
+732: U 3: taking break
+733: U 2: break finished
+734: U 2: taking break
+735: U 2: break finished
+736: U 2: taking break
+737: U 4: break finished
+738: U 4: taking break
+739: U 1: break finished
+740: U 1: taking break
+741: U 3: break finished
+742: U 3: taking break
+743: U 3: break finished
+744: U 3: taking break
+745: U 4: break finished
+746: U 4: taking break
+747: U 3: break finished
+748: U 3: taking break
+749: U 2: break finished
+750: U 2: taking break
+751: U 1: break finished
+752: U 1: taking break
+753: U 3: break finished
+754: U 3: taking break
+755: U 4: break finished
+756: U 4: taking break
+757: U 2: break finished
+758: U 2: taking break
+759: U 4: break finished
+760: U 4: taking break
+761: U 2: break finished
+762: U 2: taking break
+763: U 3: break finished
+764: U 3: taking break
+765: U 1: break finished
+766: U 1: taking break
+767: U 2: break finished
+768: U 2: taking break
+769: U 4: break finished
+770: U 4: taking break
+771: U 1: break finished
+772: U 1: taking break
+773: U 1: break finished
+774: U 1: taking break
+775: U 4: break finished
+776: U 4: taking break
+777: U 3: break finished
+778: U 3: taking break
+779: U 1: break finished
+780: U 1: taking break
+781: U 1: break finished
+782: U 1: taking break
+783: U 2: break finished
+784: U 2: taking break
+785: U 4: break finished
+786: U 4: taking break
+787: U 1: break finished
+788: U 1: taking break
+789: U 1: break finished
+790: U 1: taking break
+791: U 1: break finished
+792: U 1: taking break
+793: U 4: break finished
+794: U 4: taking break
+795: U 2: break finished
+796: U 2: taking break
+797: U 3: break finished
+798: U 3: taking break
+799: U 4: break finished
+800: U 4: taking break
+801: U 1: break finished
+802: U 1: taking break
+803: U 3: break finished
+804: U 3: taking break
+805: U 2: break finished
+806: U 2: taking break
+807: U 1: break finished
+808: U 1: taking break
+809: U 1: break finished
+810: U 1: taking break
+811: U 2: break finished
+812: U 2: taking break
+813: U 2: break finished
+814: U 2: taking break
+815: U 4: break finished
+816: U 4: taking break
+817: U 3: break finished
+818: U 3: taking break
+819: U 3: break finished
+820: U 3: taking break
+821: U 3: break finished
+822: U 3: taking break
+823: U 2: break finished
+824: U 2: taking break
+825: U 1: break finished
+826: U 1: taking break
+827: U 4: break finished
+828: U 4: taking break
+829: U 3: break finished
+830: U 3: taking break
+831: U 2: break finished
+832: U 2: taking break
+833: U 4: break finished
+834: U 4: taking break
+835: U 1: break finished
+836: U 1: taking break
+837: U 1: break finished
+838: U 1: taking break
+839: U 3: break finished
+840: U 3: taking break
+841: U 4: break finished
+842: U 4: taking break
+843: U 2: break finished
+844: U 2: taking break
+845: U 2: break finished
+846: U 2: taking break
+847: U 3: break finished
+848: U 3: taking break
+849: U 2: break finished
+850: U 2: taking break
+851: U 2: break finished
+852: U 2: taking break
+853: U 4: break finished
+854: U 4: taking break
+855: U 1: break finished
+856: U 1: taking break
+857: U 4: break finished
+858: U 4: taking break
+859: U 2: break finished
+860: U 2: taking break
+861: U 3: break finished
+862: U 3: taking break
+863: U 4: break finished
+864: U 4: taking break
+865: U 2: break finished
+866: U 2: taking break
+867: U 1: break finished
+868: U 1: taking break
+869: U 2: break finished
+870: U 2: taking break
+871: U 4: break finished
+872: U 4: taking break
+873: U 3: break finished
+874: U 3: taking break
+875: U 2: break finished
+876: U 2: taking break
+877: U 2: break finished
+878: U 2: taking break
+879: U 2: break finished
+880: U 2: taking break
+881: U 1: break finished
+882: U 1: taking break
+883: U 2: break finished
+884: U 2: taking break
+885: U 3: break finished
+886: U 3: taking break
+887: U 4: break finished
+888: U 4: taking break
+889: U 4: break finished
+890: U 4: taking break
+891: U 3: break finished
+892: U 3: taking break
+893: U 2: break finished
+894: U 2: taking break
+895: U 4: break finished
+896: U 4: taking break
+897: U 1: break finished
+898: U 1: taking break
+899: U 3: break finished
+900: U 3: taking break
+901: U 4: break finished
+902: U 4: taking break
+903: U 2: break finished
+904: U 2: taking break
+905: U 1: break finished
+906: U 1: taking break
+907: U 2: break finished
+908: U 2: taking break
+909: U 3: break finished
+910: U 3: taking break
+911: U 4: break finished
+912: U 4: taking break
+913: U 2: break finished
+914: U 2: taking break
+915: U 2: break finished
+916: U 2: taking break
+917: U 1: break finished
+918: U 1: taking break
+919: U 1: break finished
+920: U 1: taking break
+921: U 4: break finished
+922: U 4: taking break
+923: U 2: break finished
+924: U 2: taking break
+925: U 3: break finished
+926: U 3: taking break
+927: U 4: break finished
+928: U 4: taking break
+929: U 4: break finished
+930: U 4: taking break
+931: U 2: break finished
+932: U 2: taking break
+933: U 1: break finished
+934: U 1: taking break
+935: U 1: break finished
+936: U 1: taking break
+937: U 3: break finished
+938: U 3: taking break
+939: U 4: break finished
+940: U 4: taking break
+941: U 3: break finished
+942: U 3: taking break
+943: U 2: break finished
+944: U 2: taking break
+945: U 3: break finished
+946: U 3: taking break
+947: U 1: break finished
+948: U 1: taking break
+949: U 2: break finished
+950: U 2: taking break
+951: U 4: break finished
+952: U 4: taking break
+953: U 2: break finished
+954: U 2: taking break
+955: U 4: break finished
+956: U 4: taking break
+957: U 3: break finished
+958: U 3: taking break
+959: U 4: break finished
+960: U 4: taking break
+961: U 1: break finished
+962: U 1: taking break
+963: U 2: break finished
+964: U 2: taking break
+965: U 1: break finished
+966: U 1: taking break
+967: U 4: break finished
+968: U 4: taking break
+969: U 3: break finished
+970: U 3: taking break
+971: U 2: break finished
+972: U 2: taking break
+973: U 1: break finished
+974: U 1: taking break
+975: U 3: break finished
+976: U 3: taking break
+977: U 3: break finished
+978: U 3: taking break
+979: U 1: break finished
+980: U 1: taking break
+981: U 2: break finished
+982: U 2: taking break
+983: U 3: break finished
+984: U 3: taking break
+985: U 4: break finished
+986: U 4: taking break
+987: U 4: break finished
+988: U 4: taking break
+989: U 3: break finished
+990: U 3: taking break
+991: U 2: break finished
+992: U 2: taking break
+993: U 3: break finished
+994: U 3: taking break
+995: U 4: break finished
+996: U 4: taking break
+997: U 1: break finished
+998: U 1: taking break
+999: U 3: break finished
+1000: U 3: taking break
+1001: U 4: break finished
+1002: U 4: taking break
+1003: U 3: break finished
+1004: U 3: taking break
+1005: U 1: break finished
+1006: U 1: taking break
+1007: closing
+1008: U 2: break finished
+1009: U 2: going home
+1010: U 4: break finished
+1011: U 4: going home
+1012: U 1: break finished
+1013: U 1: going home
+1014: U 3: break finished
+1015: U 3: going home
