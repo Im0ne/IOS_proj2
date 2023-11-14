@@ -1,0 +1,1755 @@
+2776524 remove("./proj2.out")                    = -1
+2776524 atoi(0x7ffc8491f6d1, 6, 8, 6)            = 10
+2776524 atoi(0x7ffc8491f6d4, 10, 16, 0x7ffc8491f6d3) = 4
+2776524 atoi(0x7ffc8491f6d6, 4, 24, 0x7ffc8491f6d5) = 15
+2776524 atoi(0x7ffc8491f6d9, 15, 32, 0x7ffc8491f6d8) = 20
+2776524 atoi(0x7ffc8491f6dc, 20, 40, 0x7ffc8491f6db) = 150
+2776524 sem_open(0x403088, 65, 438, 0)           = 0x7eff878f6000
+2776524 sem_open(0x40309c, 65, 438, 0)           = 0x7eff878f5000
+2776524 sem_open(0x4030a7, 65, 438, 0)           = 0x7eff878f4000
+2776524 sem_open(0x4030b2, 65, 438, 1)           = 0x7eff878f3000
+2776524 sem_open(0x4030bd, 65, 438, 1)           = 0x7eff878f2000
+2776524 sem_open(0x4030c7, 65, 438, 1)           = 0x7eff878f1000
+2776524 sem_unlink(0x403088, 0, 0x7ffc8491e5e0, 1) = 0
+2776524 sem_unlink(0x40309c, 0x756575715f6d6573, 0, 0x7eff877bfe5b) = 0
+2776524 sem_unlink(0x4030a7, 0x756575715f6d6573, 0, 0x7eff877bfe5b) = 0
+2776524 sem_unlink(0x4030b2, 0x756575715f6d6573, 0, 0x7eff877bfe5b) = 0
+2776524 sem_unlink(0x4030bd, 0x7074756f5f6d6573, 0, 0x7eff877bfe5b) = 0
+2776524 sem_unlink(0x4030c7, 0x6574756d5f6d6573, 0, 0x7eff877bfe5b) = 0
+2776524 ftok(0x403080, 99, 0, 0x7eff877bfe5b)    = 0xffffffff
+2776524 shmget(0xffffffff, 24, 950, 0x7eff877bd80e) = 0x98033
+2776524 shmat(0x98033, 0, 0, 0x7eff877cf5de)     = 0x7eff878f0000
+2776524 getpid()                                 = 2776524
+2776524 getpid()                                 = 2776524
+2776524 fork()                                   = 2776525
+2776524 fork( <unfinished ...>
+2776525 <... fork resumed> )                     = 0
+2776525 getpid( <unfinished ...>
+2776524 <... fork resumed> )                     = 2776526
+2776524 fork( <unfinished ...>
+2776526 <... fork resumed> )                     = 0
+2776526 getpid( <unfinished ...>
+2776524 <... fork resumed> )                     = 2776527
+2776524 fork( <unfinished ...>
+2776527 <... fork resumed> )                     = 0
+2776527 getpid( <unfinished ...>
+2776524 <... fork resumed> )                     = 2776528
+2776524 getpid( <unfinished ...>
+2776528 <... fork resumed> )                     = 0
+2776528 getpid( <unfinished ...>
+2776524 <... getpid resumed> )                   = 2776524
+2776524 fork( <unfinished ...>
+2776528 <... getpid resumed> )                   = 2776528
+2776528 getpid( <unfinished ...>
+2776524 <... fork resumed> )                     = 2776529
+2776524 fork( <unfinished ...>
+2776527 <... getpid resumed> )                   = 2776527
+2776528 <... getpid resumed> )                   = 2776528
+2776529 <... fork resumed> )                     = 0
+2776529 getpid( <unfinished ...>
+2776524 <... fork resumed> )                     = 2776530
+2776524 fork( <unfinished ...>
+2776530 <... fork resumed> )                     = 0
+2776530 getpid( <unfinished ...>
+2776524 <... fork resumed> )                     = 2776531
+2776524 fork( <unfinished ...>
+2776531 <... fork resumed> )                     = 0
+2776531 getpid( <unfinished ...>
+2776524 <... fork resumed> )                     = 2776532
+2776524 fork( <unfinished ...>
+2776532 <... fork resumed> )                     = 0
+2776532 getpid( <unfinished ...>
+2776524 <... fork resumed> )                     = 2776533
+2776524 fork( <unfinished ...>
+2776533 <... fork resumed> )                     = 0
+2776533 getpid( <unfinished ...>
+2776524 <... fork resumed> )                     = 2776534
+2776524 fork( <unfinished ...>
+2776534 <... fork resumed> )                     = 0
+2776534 getpid( <unfinished ...>
+2776524 <... fork resumed> )                     = 2776535
+2776524 fork( <unfinished ...>
+2776535 <... fork resumed> )                     = 0
+2776535 getpid( <unfinished ...>
+2776524 <... fork resumed> )                     = 2776536
+2776524 fork( <unfinished ...>
+2776536 <... fork resumed> )                     = 0
+2776534 <... getpid resumed> )                   = 2776534
+2776536 getpid( <unfinished ...>
+2776524 <... fork resumed> )                     = 2776537
+2776524 fork( <unfinished ...>
+2776537 <... fork resumed> )                     = 0
+2776537 getpid( <unfinished ...>
+2776524 <... fork resumed> )                     = 2776538
+2776524 getpid( <unfinished ...>
+2776538 <... fork resumed> )                     = 0
+2776538 getpid( <unfinished ...>
+2776524 <... getpid resumed> )                   = 2776524
+2776524 getpid( <unfinished ...>
+2776538 <... getpid resumed> )                   = 2776538
+2776538 getpid( <unfinished ...>
+2776524 <... getpid resumed> )                   = 2776524
+2776524 srand(2776524 <unfinished ...>
+2776538 <... getpid resumed> )                   = 2776538
+2776524 <... srand resumed> )                    = <void>
+2776538 getpid( <unfinished ...>
+2776524 rand()                                   = 1829936554
+2776524 usleep(117000 <unfinished ...>
+2776538 <... getpid resumed> )                   = 2776538
+2776538 getpid( <unfinished ...>
+2776537 <... getpid resumed> )                   = 2776537
+2776537 getpid( <unfinished ...>
+2776538 <... getpid resumed> )                   = 2776538
+2776538 srand(2776538 <unfinished ...>
+2776537 <... getpid resumed> )                   = 2776537
+2776536 <... getpid resumed> )                   = 2776536
+2776538 <... srand resumed> )                    = <void>
+2776537 getpid( <unfinished ...>
+2776538 sem_wait(0x7eff878f3000, 0x7eff878900a0, 0x7eff87890024, 0x7eff878905c0 <unfinished ...>
+2776536 getpid( <unfinished ...>
+2776538 <... sem_wait resumed> )                 = 0
+2776538 fopen("./proj2.out", "a" <unfinished ...>
+2776537 <... getpid resumed> )                   = 2776537
+2776537 getpid( <unfinished ...>
+2776535 <... getpid resumed> )                   = 2776535
+2776537 <... getpid resumed> )                   = 2776537
+2776537 srand(2776537 <unfinished ...>
+2776538 <... fopen resumed> )                    = 0xfb34e0
+2776535 getpid( <unfinished ...>
+2776538 fprintf(0xfb34e0, "%d: Z %d: started\n", 1, 10 <unfinished ...>
+2776537 <... srand resumed> )                    = <void>
+2776537 sem_wait(0x7eff878f3000, 0x7eff878900a0, 0x7eff87890024, 0x7eff878905c0 <unfinished ...>
+2776536 <... getpid resumed> )                   = 2776536
+2776538 <... fprintf resumed> )                  = 17
+2776538 fclose(0xfb34e0 <unfinished ...>
+2776536 getpid( <unfinished ...>
+2776534 getpid( <unfinished ...>
+2776533 <... getpid resumed> )                   = 2776533
+2776535 <... getpid resumed> )                   = 2776535
+2776535 getpid( <unfinished ...>
+2776536 <... getpid resumed> )                   = 2776536
+2776538 <... fclose resumed> )                   = 0
+2776536 getpid( <unfinished ...>
+2776538 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776537 <... sem_wait resumed> )                 = 0
+2776538 rand( <unfinished ...>
+2776537 fopen("./proj2.out", "a" <unfinished ...>
+2776538 <... rand resumed> )                     = 1862233267
+2776538 usleep(7000 <unfinished ...>
+2776536 <... getpid resumed> )                   = 2776536
+2776537 <... fopen resumed> )                    = 0xfb34e0
+2776536 srand(2776536 <unfinished ...>
+2776537 fprintf(0xfb34e0, "%d: Z %d: started\n", 2, 9 <unfinished ...>
+2776535 <... getpid resumed> )                   = 2776535
+2776536 <... srand resumed> )                    = <void>
+2776537 <... fprintf resumed> )                  = 16
+2776536 sem_wait(0x7eff878f3000, 0x7eff878900a0, 0x7eff87890024, 0x7eff878905c0 <unfinished ...>
+2776537 fclose(0xfb34e0 <unfinished ...>
+2776535 getpid( <unfinished ...>
+2776534 <... getpid resumed> )                   = 2776534
+2776535 <... getpid resumed> )                   = 2776535
+2776537 <... fclose resumed> )                   = 0
+2776535 srand(2776535 <unfinished ...>
+2776537 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776534 getpid( <unfinished ...>
+2776535 <... srand resumed> )                    = <void>
+2776537 <... sem_post resumed> )                 = 0
+2776536 <... sem_wait resumed> )                 = 0
+2776537 rand( <unfinished ...>
+2776536 fopen("./proj2.out", "a" <unfinished ...>
+2776537 <... rand resumed> )                     = 1099405118
+2776537 usleep(8000 <unfinished ...>
+2776535 sem_wait(0x7eff878f3000, 0x7eff878900a0, 0x7eff87890024, 0x7eff878905c0 <unfinished ...>
+2776536 <... fopen resumed> )                    = 0xfb34e0
+2776536 fprintf(0xfb34e0, "%d: Z %d: started\n", 3, 8 <unfinished ...>
+2776533 getpid( <unfinished ...>
+2776536 <... fprintf resumed> )                  = 16
+2776534 <... getpid resumed> )                   = 2776534
+2776536 fclose(0xfb34e0 <unfinished ...>
+2776534 getpid()                                 = 2776534
+2776534 srand(2776534 <unfinished ...>
+2776536 <... fclose resumed> )                   = 0
+2776536 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776534 <... srand resumed> )                    = <void>
+2776534 sem_wait(0x7eff878f3000, 0x7eff878900a0, 0x7eff87890024, 0x7eff878905c0 <unfinished ...>
+2776536 <... sem_post resumed> )                 = 0
+2776536 rand( <unfinished ...>
+2776534 <... sem_wait resumed> )                 = 0
+2776534 fopen("./proj2.out", "a" <unfinished ...>
+2776536 <... rand resumed> )                     = 326642450
+2776536 usleep(5000 <unfinished ...>
+2776533 <... getpid resumed> )                   = 2776533
+2776533 getpid( <unfinished ...>
+2776532 <... getpid resumed> )                   = 2776532
+2776534 <... fopen resumed> )                    = 0xfb34e0
+2776532 getpid( <unfinished ...>
+2776534 fprintf(0xfb34e0, "%d: Z %d: started\n", 4, 6 <unfinished ...>
+2776533 <... getpid resumed> )                   = 2776533
+2776533 getpid( <unfinished ...>
+2776534 <... fprintf resumed> )                  = 16
+2776534 fclose(0xfb34e0 <unfinished ...>
+2776533 <... getpid resumed> )                   = 2776533
+2776533 srand(2776533 <unfinished ...>
+2776532 <... getpid resumed> )                   = 2776532
+2776533 <... srand resumed> )                    = <void>
+2776534 <... fclose resumed> )                   = 0
+2776533 sem_wait(0x7eff878f3000, 0x7eff878900a0, 0x7eff87890024, 0x7eff878905c0 <unfinished ...>
+2776534 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776533 <... sem_wait resumed> )                 = 0
+2776534 rand( <unfinished ...>
+2776533 fopen("./proj2.out", "a" <unfinished ...>
+2776534 <... rand resumed> )                     = 1999901931
+2776534 usleep(6000 <unfinished ...>
+2776532 getpid( <unfinished ...>
+2776533 <... fopen resumed> )                    = 0xfb34e0
+2776533 fprintf(0xfb34e0, "%d: Z %d: started\n", 5, 5 <unfinished ...>
+2776531 <... getpid resumed> )                   = 2776531
+2776532 <... getpid resumed> )                   = 2776532
+2776532 getpid( <unfinished ...>
+2776533 <... fprintf resumed> )                  = 16
+2776533 fclose(0xfb34e0 <unfinished ...>
+2776532 <... getpid resumed> )                   = 2776532
+2776532 srand(2776532 <unfinished ...>
+2776531 getpid( <unfinished ...>
+2776533 <... fclose resumed> )                   = 0
+2776532 <... srand resumed> )                    = <void>
+2776533 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776532 sem_wait(0x7eff878f3000, 0x7eff878900a0, 0x7eff87890024, 0x7eff878905c0 <unfinished ...>
+2776533 <... sem_post resumed> )                 = 0
+2776533 rand( <unfinished ...>
+2776532 <... sem_wait resumed> )                 = 0
+2776532 fopen("./proj2.out", "a" <unfinished ...>
+2776533 <... rand resumed> )                     = 162709378
+2776533 usleep(13000 <unfinished ...>
+2776530 <... getpid resumed> )                   = 2776530
+2776532 <... fopen resumed> )                    = 0xfb34e0
+2776531 <... getpid resumed> )                   = 2776531
+2776532 fprintf(0xfb34e0, "%d: Z %d: started\n", 6, 4 <unfinished ...>
+2776531 getpid( <unfinished ...>
+2776530 getpid( <unfinished ...>
+2776532 <... fprintf resumed> )                  = 16
+2776531 <... getpid resumed> )                   = 2776531
+2776532 fclose(0xfb34e0 <unfinished ...>
+2776531 getpid()                                 = 2776531
+2776531 srand(2776531 <unfinished ...>
+2776532 <... fclose resumed> )                   = 0
+2776532 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776531 <... srand resumed> )                    = <void>
+2776531 sem_wait(0x7eff878f3000, 0x7eff878900a0, 0x7eff87890024, 0x7eff878905c0 <unfinished ...>
+2776532 <... sem_post resumed> )                 = 0
+2776532 rand( <unfinished ...>
+2776531 <... sem_wait resumed> )                 = 0
+2776531 fopen("./proj2.out", "a" <unfinished ...>
+2776532 <... rand resumed> )                     = 1533295182
+2776532 usleep(12000 <unfinished ...>
+2776530 <... getpid resumed> )                   = 2776530
+2776530 getpid( <unfinished ...>
+2776531 <... fopen resumed> )                    = 0xfb34e0
+2776531 fprintf(0xfb34e0, "%d: Z %d: started\n", 7, 3 <unfinished ...>
+2776529 <... getpid resumed> )                   = 2776529
+2776530 <... getpid resumed> )                   = 2776530
+2776530 getpid( <unfinished ...>
+2776531 <... fprintf resumed> )                  = 16
+2776531 fclose(0xfb34e0 <unfinished ...>
+2776530 <... getpid resumed> )                   = 2776530
+2776530 srand(2776530 <unfinished ...>
+2776529 getpid( <unfinished ...>
+2776531 <... fclose resumed> )                   = 0
+2776530 <... srand resumed> )                    = <void>
+2776531 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776530 sem_wait(0x7eff878f3000, 0x7eff878900a0, 0x7eff87890024, 0x7eff878905c0) = 0
+2776531 <... sem_post resumed> )                 = 0
+2776531 rand( <unfinished ...>
+2776530 fopen("./proj2.out", "a" <unfinished ...>
+2776531 <... rand resumed> )                     = 762119471
+2776531 usleep(11000 <unfinished ...>
+2776528 getpid( <unfinished ...>
+2776530 <... fopen resumed> )                    = 0xfb34e0
+2776530 fprintf(0xfb34e0, "%d: Z %d: started\n", 8, 2 <unfinished ...>
+2776529 <... getpid resumed> )                   = 2776529
+2776529 getpid( <unfinished ...>
+2776530 <... fprintf resumed> )                  = 16
+2776529 <... getpid resumed> )                   = 2776529
+2776530 fclose(0xfb34e0 <unfinished ...>
+2776529 getpid( <unfinished ...>
+2776528 <... getpid resumed> )                   = 2776528
+2776529 <... getpid resumed> )                   = 2776529
+2776529 srand(2776529 <unfinished ...>
+2776530 <... fclose resumed> )                   = 0
+2776530 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776529 <... srand resumed> )                    = <void>
+2776529 sem_wait(0x7eff878f3000, 0x7eff878900a0, 0x7eff87890024, 0x7eff878905c0 <unfinished ...>
+2776530 <... sem_post resumed> )                 = 0
+2776529 <... sem_wait resumed> )                 = 0
+2776530 rand( <unfinished ...>
+2776529 fopen("./proj2.out", "a" <unfinished ...>
+2776530 <... rand resumed> )                     = 1068176740
+2776530 usleep(10000 <unfinished ...>
+2776528 getpid( <unfinished ...>
+2776529 <... fopen resumed> )                    = 0xfb34e0
+2776529 fprintf(0xfb34e0, "%d: Z %d: started\n", 9, 1 <unfinished ...>
+2776527 getpid( <unfinished ...>
+2776528 <... getpid resumed> )                   = 2776528
+2776528 getpid( <unfinished ...>
+2776529 <... fprintf resumed> )                  = 16
+2776529 fclose(0xfb34e0 <unfinished ...>
+2776528 <... getpid resumed> )                   = 2776528
+2776528 srand(2776528 <unfinished ...>
+2776529 <... fclose resumed> )                   = 0
+2776529 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776528 <... srand resumed> )                    = <void>
+2776528 sem_wait(0x7eff878f3000, 0x7eff878900a0, 0x7eff87890024, 0x7eff878905c0 <unfinished ...>
+2776529 <... sem_post resumed> )                 = 0
+2776528 <... sem_wait resumed> )                 = 0
+2776529 rand( <unfinished ...>
+2776528 fopen("./proj2.out", "a" <unfinished ...>
+2776536 <... usleep resumed> )                   = <void>
+2776529 <... rand resumed> )                     = 1373385424
+2776536 rand( <unfinished ...>
+2776529 usleep(4000 <unfinished ...>
+2776536 <... rand resumed> )                     = 198824550
+2776536 sem_wait(0x7eff878f1000, 0x7ffc8491e584, 0, 0xbd9d266) = 0
+2776536 sem_wait(0x7eff878f3000, 0x7ffc8491e584, 0, 0xbd9d266 <unfinished ...>
+2776527 <... getpid resumed> )                   = 2776527
+2776528 <... fopen resumed> )                    = 0xfb34e0
+2776527 getpid( <unfinished ...>
+2776528 fprintf(0xfb34e0, "%d: U %d: started\n", 10, 4 <unfinished ...>
+2776538 <... usleep resumed> )                   = <void>
+2776538 rand()                                   = 1970860183
+2776528 <... fprintf resumed> )                  = 17
+2776538 sem_wait(0x7eff878f1000, 0x7ffc8491e584, 1, 0x7578f096 <unfinished ...>
+2776528 fclose(0xfb34e0 <unfinished ...>
+2776527 <... getpid resumed> )                   = 2776527
+2776527 getpid( <unfinished ...>
+2776528 <... fclose resumed> )                   = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776527 <... getpid resumed> )                   = 2776527
+2776527 getpid( <unfinished ...>
+2776535 <... sem_wait resumed> )                 = 0
+2776528 <... sem_post resumed> )                 = 0
+2776535 fopen("./proj2.out", "a" <unfinished ...>
+2776528 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095) = 0
+2776528 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776535 <... fopen resumed> )                    = 0xfb34e0
+2776528 sem_wait(0x7eff878f3000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776535 fprintf(0xfb34e0, "%d: Z %d: started\n", 11, 7 <unfinished ...>
+2776526 <... getpid resumed> )                   = 2776526
+2776527 <... getpid resumed> )                   = 2776527
+2776535 <... fprintf resumed> )                  = 17
+2776527 srand(2776527 <unfinished ...>
+2776535 fclose(0xfb34e0 <unfinished ...>
+2776526 getpid( <unfinished ...>
+2776527 <... srand resumed> )                    = <void>
+2776527 sem_wait(0x7eff878f3000, 0x7eff878900a0, 0x7eff87890024, 0x7eff878905c0 <unfinished ...>
+2776535 <... fclose resumed> )                   = 0
+2776534 <... usleep resumed> )                   = <void>
+2776535 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776534 rand()                                   = 1637211880
+2776534 sem_wait(0x7eff878f1000, 0x7ffc8491e584, 1, 0x6195dee7 <unfinished ...>
+2776535 <... sem_post resumed> )                 = 0
+2776536 <... sem_wait resumed> )                 = 0
+2776535 rand( <unfinished ...>
+2776536 fopen("./proj2.out", "a" <unfinished ...>
+2776535 <... rand resumed> )                     = 1698742421
+2776535 usleep(11000 <unfinished ...>
+2776537 <... usleep resumed> )                   = <void>
+2776537 rand()                                   = 1089012565
+2776537 sem_wait(0x7eff878f1000, 0x7ffc8491e584, 1, 0x40e90354 <unfinished ...>
+2776536 <... fopen resumed> )                    = 0xfb34e0
+2776536 fprintf(0xfb34e0, "%d: Z %d: entering office for a "..., 12, 8, 1 <unfinished ...>
+2776525 <... getpid resumed> )                   = 2776525
+2776536 <... fprintf resumed> )                  = 41
+2776526 <... getpid resumed> )                   = 2776526
+2776536 fclose(0xfb34e0 <unfinished ...>
+2776526 getpid( <unfinished ...>
+2776525 getpid( <unfinished ...>
+2776526 <... getpid resumed> )                   = 2776526
+2776526 getpid( <unfinished ...>
+2776536 <... fclose resumed> )                   = 0
+2776536 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776526 <... getpid resumed> )                   = 2776526
+2776536 <... sem_post resumed> )                 = 0
+2776528 <... sem_wait resumed> )                 = 0
+2776536 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776528 fopen("./proj2.out", "a" <unfinished ...>
+2776536 <... sem_wait resumed> )                 = 0
+2776536 sem_post(0x7eff878f2000, 1, 1, 0x7eff878ae095) = 0
+2776536 sem_post(0x7eff878f1000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776528 <... fopen resumed> )                    = 0xfb34e0
+2776528 fprintf(0xfb34e0, "%d: U %d: taking break\n", 13, 4 <unfinished ...>
+2776538 <... sem_wait resumed> )                 = 0
+2776536 <... sem_post resumed> )                 = 0
+2776538 sem_wait(0x7eff878f3000, 0, 0x200000000, 0x440801 <unfinished ...>
+2776536 sem_wait(0x7eff878f6000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776526 getpid( <unfinished ...>
+2776528 <... fprintf resumed> )                  = 22
+2776528 fclose(0xfb34e0 <unfinished ...>
+2776526 <... getpid resumed> )                   = 2776526
+2776526 srand(2776526 <unfinished ...>
+2776528 <... fclose resumed> )                   = 0
+2776526 <... srand resumed> )                    = <void>
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776526 sem_wait(0x7eff878f3000, 0x7eff878900a0, 0x7eff87890024, 0x7eff878905c0 <unfinished ...>
+2776528 <... sem_post resumed> )                 = 0
+2776528 rand( <unfinished ...>
+2776526 <... sem_wait resumed> )                 = 0
+2776526 fopen("./proj2.out", "a" <unfinished ...>
+2776528 <... rand resumed> )                     = 1682664578
+2776528 usleep(18000 <unfinished ...>
+2776525 <... getpid resumed> )                   = 2776525
+2776525 getpid( <unfinished ...>
+2776526 <... fopen resumed> )                    = 0xfb34e0
+2776526 fprintf(0xfb34e0, "%d: U %d: started\n", 14, 2 <unfinished ...>
+2776529 <... usleep resumed> )                   = <void>
+2776529 rand( <unfinished ...>
+2776526 <... fprintf resumed> )                  = 17
+2776526 fclose(0xfb34e0 <unfinished ...>
+2776529 <... rand resumed> )                     = 422894711
+2776529 sem_wait(0x7eff878f1000, 0x7ffc8491e584, 2, 0x1934dc75 <unfinished ...>
+2776525 <... getpid resumed> )                   = 2776525
+2776525 getpid( <unfinished ...>
+2776526 <... fclose resumed> )                   = 0
+2776526 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776525 <... getpid resumed> )                   = 2776525
+2776525 getpid( <unfinished ...>
+2776538 <... sem_wait resumed> )                 = 0
+2776526 <... sem_post resumed> )                 = 0
+2776538 fopen("./proj2.out", "a" <unfinished ...>
+2776526 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095) = 0
+2776526 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776538 <... fopen resumed> )                    = 0xfb34e0
+2776526 rand( <unfinished ...>
+2776538 fprintf(0xfb34e0, "%d: Z %d: entering office for a "..., 15, 10, 2 <unfinished ...>
+2776526 <... rand resumed> )                     = 1221365165
+2776526 sem_wait(0x7eff878f2000, 0x7ffc8491e584, 2, 0x48cc8dab <unfinished ...>
+2776538 <... fprintf resumed> )                  = 42
+2776526 <... sem_wait resumed> )                 = 0
+2776538 fclose(0xfb34e0 <unfinished ...>
+2776526 sem_post(0x7eff878f2000, 0x7ffc8491e584, 0, 3) = 0
+2776526 sem_wait(0x7eff878f2000, 128, 1, 3)      = 0
+2776538 <... fclose resumed> )                   = 0
+2776526 sem_post(0x7eff878f6000, 128, 0, 3 <unfinished ...>
+2776538 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776536 <... sem_wait resumed> )                 = 0
+2776538 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776536 sem_wait(0x7eff878f2000, 0, 0, 0x440801 <unfinished ...>
+2776527 <... sem_wait resumed> )                 = 0
+2776526 <... sem_post resumed> )                 = 0
+2776527 fopen("./proj2.out", "a" <unfinished ...>
+2776526 sem_post(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776538 <... sem_wait resumed> )                 = 0
+2776538 sem_post(0x7eff878f2000, 0, 1, 0x440801 <unfinished ...>
+2776526 <... sem_post resumed> )                 = 0
+2776538 <... sem_post resumed> )                 = 0
+2776536 <... sem_wait resumed> )                 = 0
+2776538 sem_post(0x7eff878f1000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776536 sem_post(0x7eff878f2000, 0, 0x7eff878f0000, 0) = 0
+2776536 sem_wait(0x7eff878f3000, 128, 1, 0 <unfinished ...>
+2776538 <... sem_post resumed> )                 = 0
+2776538 sem_wait(0x7eff878f5000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776534 <... sem_wait resumed> )                 = 0
+2776527 <... fopen resumed> )                    = 0xfb34e0
+2776534 sem_wait(0x7eff878f3000, 0, 0x200000000, 0x440801 <unfinished ...>
+2776527 fprintf(0xfb34e0, "%d: U %d: started\n", 16, 3 <unfinished ...>
+2776526 sem_wait(0x7eff878f3000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776527 <... fprintf resumed> )                  = 17
+2776527 fclose(0xfb34e0 <unfinished ...>
+2776525 <... getpid resumed> )                   = 2776525
+2776525 srand(2776525)                           = <void>
+2776527 <... fclose resumed> )                   = 0
+2776525 sem_wait(0x7eff878f3000, 0x7eff878900a0, 0x7eff87890024, 0x7eff878905c0 <unfinished ...>
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776527 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776525 <... sem_wait resumed> )                 = 0
+2776525 fopen("./proj2.out", "a" <unfinished ...>
+2776527 <... sem_wait resumed> )                 = 0
+2776527 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776527 rand()                                   = 911370827
+2776525 <... fopen resumed> )                    = 0xfb34e0
+2776527 sem_wait(0x7eff878f2000, 0x7ffc8491e584, 2, 0x36526a49 <unfinished ...>
+2776525 fprintf(0xfb34e0, "%d: U %d: started\n", 17, 1 <unfinished ...>
+2776527 <... sem_wait resumed> )                 = 0
+2776527 sem_post(0x7eff878f2000, 0x7ffc8491e584, 1, 0) = 0
+2776525 <... fprintf resumed> )                  = 17
+2776527 sem_wait(0x7eff878f2000, 128, 1, 0 <unfinished ...>
+2776525 fclose(0xfb34e0 <unfinished ...>
+2776527 <... sem_wait resumed> )                 = 0
+2776527 sem_post(0x7eff878f5000, 128, 0, 0)      = 0
+2776538 <... sem_wait resumed> )                 = 0
+2776527 sem_post(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776538 sem_wait(0x7eff878f2000, 0, 0, 0x440801 <unfinished ...>
+2776527 <... sem_post resumed> )                 = 0
+2776538 <... sem_wait resumed> )                 = 0
+2776527 sem_wait(0x7eff878f3000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776538 sem_post(0x7eff878f2000, 0, 0x7eff878f0000, 0) = 0
+2776525 <... fclose resumed> )                   = 0
+2776538 sem_wait(0x7eff878f3000, 128, 1, 0 <unfinished ...>
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776538 <... sem_wait resumed> )                 = 0
+2776538 fopen("./proj2.out", "a" <unfinished ...>
+2776525 <... sem_post resumed> )                 = 0
+2776525 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095) = 0
+2776525 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095 <unfinished ...>
+2776538 <... fopen resumed> )                    = 0xfb34e0
+2776538 fprintf(0xfb34e0, "%d: Z %d: called by office worke"..., 18, 10 <unfinished ...>
+2776525 <... sem_post resumed> )                 = 0
+2776525 sem_wait(0x7eff878f3000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776538 <... fprintf resumed> )                  = 34
+2776538 fclose(0xfb34e0)                         = 0
+2776538 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776526 <... sem_wait resumed> )                 = 0
+2776538 rand( <unfinished ...>
+2776526 fopen("./proj2.out", "a" <unfinished ...>
+2776538 <... rand resumed> )                     = 2038549517
+2776538 usleep(7000 <unfinished ...>
+2776526 <... fopen resumed> )                    = 0xfb34e0
+2776526 fprintf(0xfb34e0, "%d: U %d: serving a service of t"..., 19, 2, 1) = 37
+2776526 fclose(0xfb34e0)                         = 0
+2776526 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776536 <... sem_wait resumed> )                 = 0
+2776526 rand( <unfinished ...>
+2776536 fopen("./proj2.out", "a" <unfinished ...>
+2776526 <... rand resumed> )                     = 995924978
+2776526 usleep(8000 <unfinished ...>
+2776536 <... fopen resumed> )                    = 0xfb34e0
+2776536 fprintf(0xfb34e0, "%d: Z %d: called by office worke"..., 20, 8) = 33
+2776536 fclose(0xfb34e0 <unfinished ...>
+2776530 <... usleep resumed> )                   = <void>
+2776530 rand( <unfinished ...>
+2776536 <... fclose resumed> )                   = 0
+2776530 <... rand resumed> )                     = 238965276
+2776536 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776531 <... usleep resumed> )                   = <void>
+2776531 rand( <unfinished ...>
+2776536 <... sem_post resumed> )                 = 0
+2776531 <... rand resumed> )                     = 48630650
+2776536 rand( <unfinished ...>
+2776531 sem_wait(0x7eff878f1000, 0x7ffc8491e584, 2, 0x2e60b78 <unfinished ...>
+2776536 <... rand resumed> )                     = 740827579
+2776532 <... usleep resumed> )                   = <void>
+2776536 usleep(9000 <unfinished ...>
+2776532 rand( <unfinished ...>
+2776533 <... usleep resumed> )                   = <void>
+2776533 rand( <unfinished ...>
+2776532 <... rand resumed> )                     = 2006212580
+2776532 sem_wait(0x7eff878f1000, 0x7ffc8491e584, 2, 0x77945fe2 <unfinished ...>
+2776533 <... rand resumed> )                     = 1832160317
+2776533 sem_wait(0x7eff878f1000, 0x7ffc8491e584, 2, 0x6d348c3b <unfinished ...>
+2776530 sem_wait(0x7eff878f1000, 0x7ffc8491e584, 0, 0xe3e521c <unfinished ...>
+2776527 <... sem_wait resumed> )                 = 0
+2776527 fopen("./proj2.out", "a")                = 0xfb34e0
+2776527 fprintf(0xfb34e0, "%d: U %d: serving a service of t"..., 21, 3, 2) = 37
+2776527 fclose(0xfb34e0)                         = 0
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776534 <... sem_wait resumed> )                 = 0
+2776527 <... sem_post resumed> )                 = 0
+2776534 fopen("./proj2.out", "a" <unfinished ...>
+2776527 rand()                                   = 801228655
+2776527 usleep(5000 <unfinished ...>
+2776534 <... fopen resumed> )                    = 0xfb34e0
+2776534 fprintf(0xfb34e0, "%d: Z %d: entering office for a "..., 22, 6, 2) = 41
+2776534 fclose(0xfb34e0)                         = 0
+2776534 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776525 <... sem_wait resumed> )                 = 0
+2776534 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776525 fopen("./proj2.out", "a" <unfinished ...>
+2776534 <... sem_wait resumed> )                 = 0
+2776534 sem_post(0x7eff878f2000, 1, 1, 0x7eff878ae095) = 0
+2776534 sem_post(0x7eff878f1000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776525 <... fopen resumed> )                    = 0xfb34e0
+2776525 fprintf(0xfb34e0, "%d: U %d: taking break\n", 23, 1 <unfinished ...>
+2776537 <... sem_wait resumed> )                 = 0
+2776534 <... sem_post resumed> )                 = 0
+2776537 sem_wait(0x7eff878f3000, 0, 0x500000000, 0x440801 <unfinished ...>
+2776534 sem_wait(0x7eff878f5000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776525 <... fprintf resumed> )                  = 22
+2776525 fclose(0xfb34e0)                         = 0
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776537 <... sem_wait resumed> )                 = 0
+2776525 <... sem_post resumed> )                 = 0
+2776537 fopen("./proj2.out", "a" <unfinished ...>
+2776525 rand()                                   = 450069825
+2776525 usleep(5000 <unfinished ...>
+2776537 <... fopen resumed> )                    = 0xfb34e0
+2776537 fprintf(0xfb34e0, "%d: Z %d: entering office for a "..., 24, 9, 2) = 41
+2776537 fclose(0xfb34e0)                         = 0
+2776537 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776537 sem_wait(0x7eff878f2000, 128, 1, 4019)   = 0
+2776537 sem_post(0x7eff878f2000, 128, 2, 4019)   = 0
+2776537 sem_post(0x7eff878f1000, 128, 1, 4019)   = 0
+2776537 sem_wait(0x7eff878f5000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776529 <... sem_wait resumed> )                 = 0
+2776529 sem_wait(0x7eff878f3000, 0, 0x400000000, 0x440801) = 0
+2776529 fopen("./proj2.out", "a")                = 0xfb34e0
+2776529 fprintf(0xfb34e0, "%d: Z %d: entering office for a "..., 25, 1, 3) = 41
+2776529 fclose(0xfb34e0)                         = 0
+2776529 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776529 sem_wait(0x7eff878f2000, 128, 1, 4019)   = 0
+2776529 sem_post(0x7eff878f2000, 128, 1, 4019)   = 0
+2776529 sem_post(0x7eff878f1000, 128, 1, 4019 <unfinished ...>
+2776532 <... sem_wait resumed> )                 = 0
+2776529 <... sem_post resumed> )                 = 0
+2776532 sem_wait(0x7eff878f3000, 0, 0x300000000, 0x440801 <unfinished ...>
+2776529 sem_wait(0x7eff878f4000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776532 <... sem_wait resumed> )                 = 0
+2776532 fopen("./proj2.out", "a")                = 0xfb34e0
+2776532 fprintf(0xfb34e0, "%d: Z %d: entering office for a "..., 26, 4, 3 <unfinished ...>
+2776535 <... usleep resumed> )                   = <void>
+2776535 rand( <unfinished ...>
+2776532 <... fprintf resumed> )                  = 41
+2776535 <... rand resumed> )                     = 380056331
+2776532 fclose(0xfb34e0 <unfinished ...>
+2776535 sem_wait(0x7eff878f1000, 0x7ffc8491e584, 2, 0x16a73309 <unfinished ...>
+2776532 <... fclose resumed> )                   = 0
+2776532 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776532 sem_wait(0x7eff878f2000, 128, 1, 4019)   = 0
+2776532 sem_post(0x7eff878f2000, 128, 2, 4019)   = 0
+2776532 sem_post(0x7eff878f1000, 128, 1, 4019 <unfinished ...>
+2776533 <... sem_wait resumed> )                 = 0
+2776532 <... sem_post resumed> )                 = 0
+2776533 sem_wait(0x7eff878f3000, 0, 0x300000000, 0x440801 <unfinished ...>
+2776532 sem_wait(0x7eff878f4000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776533 <... sem_wait resumed> )                 = 0
+2776533 fopen("./proj2.out", "a")                = 0xfb34e0
+2776533 fprintf(0xfb34e0, "%d: Z %d: entering office for a "..., 27, 5, 3) = 41
+2776533 fclose(0xfb34e0)                         = 0
+2776533 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776533 sem_wait(0x7eff878f2000, 128, 1, 4019)   = 0
+2776533 sem_post(0x7eff878f2000, 128, 3, 4019)   = 0
+2776533 sem_post(0x7eff878f1000, 128, 1, 4019)   = 0
+2776531 <... sem_wait resumed> )                 = 0
+2776533 sem_wait(0x7eff878f4000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776531 sem_wait(0x7eff878f3000, 0, 0x200000000, 0x440801) = 0
+2776531 fopen("./proj2.out", "a")                = 0xfb34e0
+2776531 fprintf(0xfb34e0, "%d: Z %d: entering office for a "..., 28, 3, 3) = 41
+2776531 fclose(0xfb34e0)                         = 0
+2776531 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776531 sem_wait(0x7eff878f2000, 128, 1, 4019)   = 0
+2776531 sem_post(0x7eff878f2000, 128, 4, 4019)   = 0
+2776531 sem_post(0x7eff878f1000, 128, 1, 4019)   = 0
+2776530 <... sem_wait resumed> )                 = 0
+2776531 sem_wait(0x7eff878f4000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776530 sem_wait(0x7eff878f3000, 0, 0x100000000, 0x440801) = 0
+2776538 <... usleep resumed> )                   = <void>
+2776530 fopen("./proj2.out", "a" <unfinished ...>
+2776538 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776527 <... usleep resumed> )                   = <void>
+2776527 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776530 <... fopen resumed> )                    = 0xfb34e0
+2776530 fprintf(0xfb34e0, "%d: Z %d: entering office for a "..., 29, 2, 1) = 41
+2776530 fclose(0xfb34e0)                         = 0
+2776530 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776530 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776538 <... sem_wait resumed> )                 = 0
+2776530 <... sem_wait resumed> )                 = 0
+2776538 fopen("./proj2.out", "a" <unfinished ...>
+2776530 sem_post(0x7eff878f2000, 1, 1, 0x7eff878ae095) = 0
+2776530 sem_post(0x7eff878f1000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776538 <... fopen resumed> )                    = 0xfb34e0
+2776538 fprintf(0xfb34e0, "%d: Z %d: going home\n", 30, 10 <unfinished ...>
+2776535 <... sem_wait resumed> )                 = 0
+2776535 sem_wait(0x7eff878f3000, 0, 0, 0x440801 <unfinished ...>
+2776538 <... fprintf resumed> )                  = 21
+2776538 fclose(0xfb34e0 <unfinished ...>
+2776530 <... sem_post resumed> )                 = 0
+2776530 sem_wait(0x7eff878f6000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776538 <... fclose resumed> )                   = 0
+2776538 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776527 <... sem_wait resumed> )                 = 0
+2776538 exit(0 <unfinished ...>
+2776527 fopen("./proj2.out", "a" <unfinished ...>
+2776525 <... usleep resumed> )                   = <void>
+2776525 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <no return ...>
+2776538 +++ exited (status 0) +++
+2776524 --- SIGCHLD (Child exited) ---
+2776527 <... fopen resumed> )                    = 0xfb34e0
+2776527 fprintf(0xfb34e0, "%d: U %d: service finished\n", 31, 3 <unfinished ...>
+2776526 <... usleep resumed> )                   = <void>
+2776526 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776527 <... fprintf resumed> )                  = 26
+2776527 fclose(0xfb34e0)                         = 0
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776535 <... sem_wait resumed> )                 = 0
+2776527 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776535 fopen("./proj2.out", "a" <unfinished ...>
+2776527 <... sem_wait resumed> )                 = 0
+2776527 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776527 rand( <unfinished ...>
+2776535 <... fopen resumed> )                    = 0xfb34e0
+2776535 fprintf(0xfb34e0, "%d: Z %d: entering office for a "..., 32, 7, 3 <unfinished ...>
+2776527 <... rand resumed> )                     = 258690678
+2776527 sem_wait(0x7eff878f2000, 0x7ffc8491e584, 0, 0xf6b4e76) = 0
+2776535 <... fprintf resumed> )                  = 41
+2776527 sem_post(0x7eff878f2000, 0x7ffc8491e584, 0, 0xf6b4e76 <unfinished ...>
+2776535 fclose(0xfb34e0 <unfinished ...>
+2776527 <... sem_post resumed> )                 = 0
+2776527 sem_wait(0x7eff878f2000, 128, 1, 0xf6b4e76) = 0
+2776527 sem_post(0x7eff878f6000, 128, 0, 0xf6b4e76 <unfinished ...>
+2776535 <... fclose resumed> )                   = 0
+2776535 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776530 <... sem_wait resumed> )                 = 0
+2776530 sem_wait(0x7eff878f2000, 0, 0, 0x440801 <unfinished ...>
+2776535 <... sem_post resumed> )                 = 0
+2776535 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776527 <... sem_post resumed> )                 = 0
+2776527 sem_post(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776525 <... sem_wait resumed> )                 = 0
+2776525 fopen("./proj2.out", "a" <unfinished ...>
+2776530 <... sem_wait resumed> )                 = 0
+2776527 <... sem_post resumed> )                 = 0
+2776530 sem_post(0x7eff878f2000, 0, 0x7eff878f0000, 0 <unfinished ...>
+2776527 sem_wait(0x7eff878f3000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776530 <... sem_post resumed> )                 = 0
+2776535 <... sem_wait resumed> )                 = 0
+2776536 <... usleep resumed> )                   = <void>
+2776535 sem_post(0x7eff878f2000, 0, 5, 0x440801 <unfinished ...>
+2776536 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776535 <... sem_post resumed> )                 = 0
+2776535 sem_post(0x7eff878f1000, 128, 1, 0x440801 <unfinished ...>
+2776530 sem_wait(0x7eff878f3000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776535 <... sem_post resumed> )                 = 0
+2776535 sem_wait(0x7eff878f4000, 128, 1, 0x440801 <unfinished ...>
+2776525 <... fopen resumed> )                    = 0xfb34e0
+2776525 fprintf(0xfb34e0, "%d: U %d: break finished\n", 33, 1) = 24
+2776525 fclose(0xfb34e0)                         = 0
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776526 <... sem_wait resumed> )                 = 0
+2776525 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776526 fopen("./proj2.out", "a" <unfinished ...>
+2776525 <... sem_wait resumed> )                 = 0
+2776525 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776525 rand( <unfinished ...>
+2776526 <... fopen resumed> )                    = 0xfb34e0
+2776526 fprintf(0xfb34e0, "%d: U %d: service finished\n", 34, 2 <unfinished ...>
+2776525 <... rand resumed> )                     = 103684598
+2776525 sem_wait(0x7eff878f2000, 0x7ffc8491e584, 2, 0x62e19f4) = 0
+2776526 <... fprintf resumed> )                  = 26
+2776525 sem_post(0x7eff878f2000, 0x7ffc8491e584, 2, 0x62e19f4 <unfinished ...>
+2776526 fclose(0xfb34e0 <unfinished ...>
+2776525 <... sem_post resumed> )                 = 0
+2776525 sem_wait(0x7eff878f2000, 128, 1, 0x62e19f4) = 0
+2776525 sem_post(0x7eff878f4000, 128, 0, 0x62e19f4 <unfinished ...>
+2776526 <... fclose resumed> )                   = 0
+2776526 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776525 <... sem_post resumed> )                 = 0
+2776527 <... sem_wait resumed> )                 = 0
+2776526 <... sem_post resumed> )                 = 0
+2776527 fopen("./proj2.out", "a" <unfinished ...>
+2776529 <... sem_wait resumed> )                 = 0
+2776526 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776529 sem_wait(0x7eff878f2000, 0, 0x400000000, 0x440801 <unfinished ...>
+2776525 sem_post(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776527 <... fopen resumed> )                    = 0xfb34e0
+2776527 fprintf(0xfb34e0, "%d: U %d: serving a service of t"..., 35, 3, 1 <unfinished ...>
+2776526 <... sem_wait resumed> )                 = 0
+2776526 sem_post(0x7eff878f2000, 0, 2, 0x440801 <unfinished ...>
+2776527 <... fprintf resumed> )                  = 37
+2776527 fclose(0xfb34e0 <unfinished ...>
+2776529 <... sem_wait resumed> )                 = 0
+2776529 sem_post(0x7eff878f2000, 0, 0x7eff878f0000, 4) = 0
+2776529 sem_wait(0x7eff878f3000, 128, 1, 4 <unfinished ...>
+2776527 <... fclose resumed> )                   = 0
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776536 <... sem_wait resumed> )                 = 0
+2776527 <... sem_post resumed> )                 = 0
+2776536 fopen("./proj2.out", "a" <unfinished ...>
+2776527 rand()                                   = 807318726
+2776527 usleep(6000 <unfinished ...>
+2776536 <... fopen resumed> )                    = 0xfb34e0
+2776526 <... sem_post resumed> )                 = 0
+2776536 fprintf(0xfb34e0, "%d: Z %d: going home\n", 36, 8 <unfinished ...>
+2776526 rand()                                   = 1761176278
+2776526 sem_wait(0x7eff878f2000, 0x7ffc8491e584, 1, 0x68f96ad5 <unfinished ...>
+2776536 <... fprintf resumed> )                  = 20
+2776536 fclose(0xfb34e0 <unfinished ...>
+2776526 <... sem_wait resumed> )                 = 0
+2776526 sem_post(0x7eff878f2000, 0x7ffc8491e584, 1, 0x68f96ad5) = 0
+2776526 sem_wait(0x7eff878f2000, 128, 1, 0x68f96ad5 <unfinished ...>
+2776536 <... fclose resumed> )                   = 0
+2776526 <... sem_wait resumed> )                 = 0
+2776536 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776526 sem_post(0x7eff878f5000, 128, 0, 0x68f96ad5 <unfinished ...>
+2776525 <... sem_post resumed> )                 = 0
+2776536 <... sem_post resumed> )                 = 0
+2776530 <... sem_wait resumed> )                 = 0
+2776536 exit(0 <unfinished ...>
+2776530 fopen("./proj2.out", "a" <unfinished ...>
+2776525 sem_wait(0x7eff878f3000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776534 <... sem_wait resumed> )                 = 0
+2776534 sem_wait(0x7eff878f2000, 0, 0x100000000, 0x440801 <no return ...>
+2776536 +++ exited (status 0) +++
+2776524 --- SIGCHLD (Child exited) ---
+2776530 <... fopen resumed> )                    = 0xfb34e0
+2776528 <... usleep resumed> )                   = <void>
+2776530 fprintf(0xfb34e0, "%d: Z %d: called by office worke"..., 37, 2 <unfinished ...>
+2776528 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776530 <... fprintf resumed> )                  = 33
+2776526 <... sem_post resumed> )                 = 0
+2776530 fclose(0xfb34e0 <unfinished ...>
+2776526 sem_post(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776534 <... sem_wait resumed> )                 = 0
+2776534 sem_post(0x7eff878f2000, 0, 0x7eff878f0000, 1 <unfinished ...>
+2776530 <... fclose resumed> )                   = 0
+2776534 <... sem_post resumed> )                 = 0
+2776530 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776534 sem_wait(0x7eff878f3000, 128, 1, 1)      = 0
+2776534 fopen("./proj2.out", "a" <unfinished ...>
+2776530 <... sem_post resumed> )                 = 0
+2776530 rand()                                   = 56342075
+2776530 usleep(5000 <unfinished ...>
+2776534 <... fopen resumed> )                    = 0xfb34e0
+2776534 fprintf(0xfb34e0, "%d: Z %d: called by office worke"..., 38, 6) = 33
+2776526 <... sem_post resumed> )                 = 0
+2776534 fclose(0xfb34e0 <unfinished ...>
+2776526 sem_wait(0x7eff878f3000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776534 <... fclose resumed> )                   = 0
+2776534 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776528 <... sem_wait resumed> )                 = 0
+2776534 rand( <unfinished ...>
+2776528 fopen("./proj2.out", "a" <unfinished ...>
+2776534 <... rand resumed> )                     = 508942153
+2776534 usleep(3000 <unfinished ...>
+2776528 <... fopen resumed> )                    = 0xfb34e0
+2776528 fprintf(0xfb34e0, "%d: U %d: break finished\n", 39, 4) = 24
+2776528 fclose(0xfb34e0)                         = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776529 <... sem_wait resumed> )                 = 0
+2776528 <... sem_post resumed> )                 = 0
+2776529 fopen("./proj2.out", "a" <unfinished ...>
+2776528 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095) = 0
+2776528 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776529 <... fopen resumed> )                    = 0xfb34e0
+2776528 rand( <unfinished ...>
+2776529 fprintf(0xfb34e0, "%d: Z %d: called by office worke"..., 40, 1 <unfinished ...>
+2776528 <... rand resumed> )                     = 1689124794
+2776528 sem_wait(0x7eff878f2000, 0x7ffc8491e584, 0, 0x64adffba <unfinished ...>
+2776529 <... fprintf resumed> )                  = 33
+2776528 <... sem_wait resumed> )                 = 0
+2776529 fclose(0xfb34e0 <unfinished ...>
+2776528 sem_post(0x7eff878f2000, 0x7ffc8491e584, 1, 0) = 0
+2776528 sem_wait(0x7eff878f2000, 128, 1, 0)      = 0
+2776529 <... fclose resumed> )                   = 0
+2776528 sem_post(0x7eff878f5000, 128, 0, 0 <unfinished ...>
+2776529 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776537 <... sem_wait resumed> )                 = 0
+2776529 <... sem_post resumed> )                 = 0
+2776537 sem_wait(0x7eff878f2000, 0, 0, 0x440801 <unfinished ...>
+2776529 rand()                                   = 478987310
+2776528 <... sem_post resumed> )                 = 0
+2776529 usleep(0 <unfinished ...>
+2776528 sem_post(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776537 <... sem_wait resumed> )                 = 0
+2776528 <... sem_post resumed> )                 = 0
+2776537 sem_post(0x7eff878f2000, 0, 0x7eff878f0000, 0 <unfinished ...>
+2776529 <... usleep resumed> )                   = <void>
+2776537 <... sem_post resumed> )                 = 0
+2776529 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776537 sem_wait(0x7eff878f3000, 128, 1, 0 <unfinished ...>
+2776528 sem_wait(0x7eff878f3000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776525 <... sem_wait resumed> )                 = 0
+2776525 fopen("./proj2.out", "a")                = 0xfb34e0
+2776525 fprintf(0xfb34e0, "%d: U %d: serving a service of t"..., 41, 1, 3) = 37
+2776525 fclose(0xfb34e0)                         = 0
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776526 <... sem_wait resumed> )                 = 0
+2776525 rand( <unfinished ...>
+2776526 fopen("./proj2.out", "a" <unfinished ...>
+2776525 <... rand resumed> )                     = 32581341
+2776525 usleep(1000 <unfinished ...>
+2776526 <... fopen resumed> )                    = 0xfb34e0
+2776526 fprintf(0xfb34e0, "%d: U %d: serving a service of t"..., 42, 2, 2) = 37
+2776526 fclose(0xfb34e0)                         = 0
+2776526 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776529 <... sem_wait resumed> )                 = 0
+2776526 <... sem_post resumed> )                 = 0
+2776529 fopen("./proj2.out", "a" <unfinished ...>
+2776526 rand()                                   = 1200330059
+2776526 usleep(9000 <unfinished ...>
+2776529 <... fopen resumed> )                    = 0xfb34e0
+2776529 fprintf(0xfb34e0, "%d: Z %d: going home\n", 43, 1) = 20
+2776529 fclose(0xfb34e0)                         = 0
+2776534 <... usleep resumed> )                   = <void>
+2776529 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776534 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea) = 0
+2776534 fopen("./proj2.out", "a" <unfinished ...>
+2776529 <... sem_post resumed> )                 = 0
+2776529 exit(0 <unfinished ...>
+2776534 <... fopen resumed> )                    = 0xfb34e0
+2776534 fprintf(0xfb34e0, "%d: Z %d: going home\n", 44, 6 <no return ...>
+2776529 +++ exited (status 0) +++
+2776524 --- SIGCHLD (Child exited) ---
+2776525 <... usleep resumed> )                   = <void>
+2776534 <... fprintf resumed> )                  = 20
+2776525 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776534 fclose(0xfb34e0)                         = 0
+2776534 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776528 <... sem_wait resumed> )                 = 0
+2776534 exit(0 <unfinished ...>
+2776528 fopen("./proj2.out", "a")                = 0xfb34e0
+2776528 fprintf(0xfb34e0, "%d: U %d: serving a service of t"..., 45, 4, 2 <no return ...>
+2776534 +++ exited (status 0) +++
+2776524 --- SIGCHLD (Child exited) ---
+2776527 <... usleep resumed> )                   = <void>
+2776528 <... fprintf resumed> )                  = 37
+2776527 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776528 fclose(0xfb34e0)                         = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776537 <... sem_wait resumed> )                 = 0
+2776528 rand( <unfinished ...>
+2776537 fopen("./proj2.out", "a" <unfinished ...>
+2776528 <... rand resumed> )                     = 1984458360
+2776528 usleep(0 <unfinished ...>
+2776537 <... fopen resumed> )                    = 0xfb34e0
+2776537 fprintf(0xfb34e0, "%d: Z %d: called by office worke"..., 46, 9 <unfinished ...>
+2776528 <... usleep resumed> )                   = <void>
+2776528 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776530 <... usleep resumed> )                   = <void>
+2776537 <... fprintf resumed> )                  = 33
+2776530 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776537 fclose(0xfb34e0)                         = 0
+2776537 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776525 <... sem_wait resumed> )                 = 0
+2776537 rand( <unfinished ...>
+2776525 fopen("./proj2.out", "a" <unfinished ...>
+2776537 <... rand resumed> )                     = 318248543
+2776537 usleep(3000 <unfinished ...>
+2776525 <... fopen resumed> )                    = 0xfb34e0
+2776525 fprintf(0xfb34e0, "%d: U %d: service finished\n", 47, 1) = 26
+2776525 fclose(0xfb34e0)                         = 0
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776527 <... sem_wait resumed> )                 = 0
+2776525 <... sem_post resumed> )                 = 0
+2776527 fopen("./proj2.out", "a" <unfinished ...>
+2776525 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095) = 0
+2776525 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776527 <... fopen resumed> )                    = 0xfb34e0
+2776525 rand( <unfinished ...>
+2776527 fprintf(0xfb34e0, "%d: U %d: service finished\n", 48, 3 <unfinished ...>
+2776525 <... rand resumed> )                     = 510895966
+2776525 sem_wait(0x7eff878f2000, 0x7ffc8491e584, 1, 0x1e73a75d <unfinished ...>
+2776527 <... fprintf resumed> )                  = 26
+2776525 <... sem_wait resumed> )                 = 0
+2776527 fclose(0xfb34e0 <unfinished ...>
+2776525 sem_post(0x7eff878f2000, 0x7ffc8491e584, 2, 0) = 0
+2776525 sem_wait(0x7eff878f2000, 128, 1, 0)      = 0
+2776527 <... fclose resumed> )                   = 0
+2776525 sem_post(0x7eff878f4000, 128, 0, 0 <unfinished ...>
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776532 <... sem_wait resumed> )                 = 0
+2776527 <... sem_post resumed> )                 = 0
+2776532 sem_wait(0x7eff878f2000, 0, 0x300000000, 0x440801 <unfinished ...>
+2776527 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776530 <... sem_wait resumed> )                 = 0
+2776525 <... sem_post resumed> )                 = 0
+2776530 fopen("./proj2.out", "a" <unfinished ...>
+2776525 sem_post(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776532 <... sem_wait resumed> )                 = 0
+2776532 sem_post(0x7eff878f2000, 0, 0x7eff878f0000, 3) = 0
+2776530 <... fopen resumed> )                    = 0xfb34e0
+2776532 sem_wait(0x7eff878f3000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776530 fprintf(0xfb34e0, "%d: Z %d: going home\n", 49, 2 <unfinished ...>
+2776527 <... sem_wait resumed> )                 = 0
+2776527 sem_post(0x7eff878f2000, 0, 2, 0x440801 <unfinished ...>
+2776530 <... fprintf resumed> )                  = 20
+2776530 fclose(0xfb34e0 <unfinished ...>
+2776527 <... sem_post resumed> )                 = 0
+2776527 rand( <unfinished ...>
+2776525 <... sem_post resumed> )                 = 0
+2776527 <... rand resumed> )                     = 1578642282
+2776527 sem_wait(0x7eff878f2000, 0x7ffc8491e584, 0, 0x5e182b6a <unfinished ...>
+2776530 <... fclose resumed> )                   = 0
+2776527 <... sem_wait resumed> )                 = 0
+2776530 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776527 sem_post(0x7eff878f2000, 0x7ffc8491e584, 2, 0) = 0
+2776530 <... sem_post resumed> )                 = 0
+2776528 <... sem_wait resumed> )                 = 0
+2776530 exit(0 <unfinished ...>
+2776528 fopen("./proj2.out", "a" <unfinished ...>
+2776527 sem_wait(0x7eff878f2000, 128, 1, 0)      = 0
+2776527 sem_post(0x7eff878f4000, 128, 0, 0 <no return ...>
+2776530 +++ exited (status 0) +++
+2776524 --- SIGCHLD (Child exited) ---
+2776528 <... fopen resumed> )                    = 0xfb34e0
+2776528 fprintf(0xfb34e0, "%d: U %d: service finished\n", 50, 4 <unfinished ...>
+2776533 <... sem_wait resumed> )                 = 0
+2776528 <... fprintf resumed> )                  = 26
+2776533 sem_wait(0x7eff878f2000, 0, 0x200000000, 0x440801 <unfinished ...>
+2776528 fclose(0xfb34e0 <unfinished ...>
+2776527 <... sem_post resumed> )                 = 0
+2776527 sem_post(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776528 <... fclose resumed> )                   = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776533 <... sem_wait resumed> )                 = 0
+2776533 sem_post(0x7eff878f2000, 0, 0x7eff878f0000, 2) = 0
+2776532 <... sem_wait resumed> )                 = 0
+2776533 sem_wait(0x7eff878f3000, 128, 1, 2 <unfinished ...>
+2776532 fopen("./proj2.out", "a" <unfinished ...>
+2776528 <... sem_post resumed> )                 = 0
+2776528 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776532 <... fopen resumed> )                    = 0xfb34e0
+2776528 <... sem_wait resumed> )                 = 0
+2776532 fprintf(0xfb34e0, "%d: Z %d: called by office worke"..., 51, 4 <unfinished ...>
+2776528 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776528 rand( <unfinished ...>
+2776532 <... fprintf resumed> )                  = 33
+2776537 <... usleep resumed> )                   = <void>
+2776532 fclose(0xfb34e0 <unfinished ...>
+2776537 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776528 <... rand resumed> )                     = 1496837836
+2776528 sem_wait(0x7eff878f2000, 0x7ffc8491e584, 1, 0x5937eecb <unfinished ...>
+2776532 <... fclose resumed> )                   = 0
+2776532 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776528 <... sem_wait resumed> )                 = 0
+2776528 sem_post(0x7eff878f2000, 0x7ffc8491e584, 2, 0 <unfinished ...>
+2776533 <... sem_wait resumed> )                 = 0
+2776532 <... sem_post resumed> )                 = 0
+2776533 fopen("./proj2.out", "a" <unfinished ...>
+2776532 rand()                                   = 279597300
+2776532 usleep(0 <unfinished ...>
+2776533 <... fopen resumed> )                    = 0xfb34e0
+2776528 <... sem_post resumed> )                 = 0
+2776533 fprintf(0xfb34e0, "%d: Z %d: called by office worke"..., 52, 5 <unfinished ...>
+2776532 <... usleep resumed> )                   = <void>
+2776532 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776533 <... fprintf resumed> )                  = 33
+2776533 fclose(0xfb34e0 <unfinished ...>
+2776528 sem_wait(0x7eff878f2000, 128, 1, 0)      = 0
+2776528 sem_post(0x7eff878f4000, 128, 0, 0 <unfinished ...>
+2776533 <... fclose resumed> )                   = 0
+2776533 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776531 <... sem_wait resumed> )                 = 0
+2776531 sem_wait(0x7eff878f2000, 0, 0x100000000, 0x440801 <unfinished ...>
+2776537 <... sem_wait resumed> )                 = 0
+2776533 <... sem_post resumed> )                 = 0
+2776537 fopen("./proj2.out", "a" <unfinished ...>
+2776533 rand()                                   = 2011110582
+2776533 usleep(2000 <unfinished ...>
+2776537 <... fopen resumed> )                    = 0xfb34e0
+2776537 fprintf(0xfb34e0, "%d: Z %d: going home\n", 53, 9 <unfinished ...>
+2776528 <... sem_post resumed> )                 = 0
+2776528 sem_post(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776537 <... fprintf resumed> )                  = 20
+2776537 fclose(0xfb34e0 <unfinished ...>
+2776531 <... sem_wait resumed> )                 = 0
+2776531 sem_post(0x7eff878f2000, 0, 0x7eff878f0000, 1) = 0
+2776531 sem_wait(0x7eff878f3000, 128, 1, 1 <unfinished ...>
+2776537 <... fclose resumed> )                   = 0
+2776537 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776528 <... sem_post resumed> )                 = 0
+2776537 <... sem_post resumed> )                 = 0
+2776532 <... sem_wait resumed> )                 = 0
+2776537 exit(0 <unfinished ...>
+2776532 fopen("./proj2.out", "a" <unfinished ...>
+2776528 sem_wait(0x7eff878f3000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776527 <... sem_post resumed> )                 = 0
+2776527 sem_wait(0x7eff878f3000, 1, 1, 0x7eff878ae095 <no return ...>
+2776537 +++ exited (status 0) +++
+2776532 <... fopen resumed> )                    = 0xfb34e0
+2776524 --- SIGCHLD (Child exited) ---
+2776532 fprintf(0xfb34e0, "%d: Z %d: going home\n", 54, 4 <unfinished ...>
+2776525 sem_wait(0x7eff878f3000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776532 <... fprintf resumed> )                  = 20
+2776532 fclose(0xfb34e0)                         = 0
+2776532 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776531 <... sem_wait resumed> )                 = 0
+2776532 exit(0 <unfinished ...>
+2776531 fopen("./proj2.out", "a")                = 0xfb34e0
+2776531 fprintf(0xfb34e0, "%d: Z %d: called by office worke"..., 55, 3 <no return ...>
+2776532 +++ exited (status 0) +++
+2776524 --- SIGCHLD (Child exited) ---
+2776531 <... fprintf resumed> )                  = 33
+2776531 fclose(0xfb34e0)                         = 0
+2776531 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776528 <... sem_wait resumed> )                 = 0
+2776531 rand( <unfinished ...>
+2776528 fopen("./proj2.out", "a" <unfinished ...>
+2776531 <... rand resumed> )                     = 698670584
+2776531 usleep(4000 <unfinished ...>
+2776528 <... fopen resumed> )                    = 0xfb34e0
+2776528 fprintf(0xfb34e0, "%d: U %d: serving a service of t"..., 56, 4, 3) = 37
+2776528 fclose(0xfb34e0)                         = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776533 <... usleep resumed> )                   = <void>
+2776528 <... sem_post resumed> )                 = 0
+2776533 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776528 rand( <unfinished ...>
+2776527 <... sem_wait resumed> )                 = 0
+2776528 <... rand resumed> )                     = 364230190
+2776527 fopen("./proj2.out", "a" <unfinished ...>
+2776528 usleep(0 <unfinished ...>
+2776527 <... fopen resumed> )                    = 0xfb34e0
+2776527 fprintf(0xfb34e0, "%d: U %d: serving a service of t"..., 57, 3, 3 <unfinished ...>
+2776528 <... usleep resumed> )                   = <void>
+2776528 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776527 <... fprintf resumed> )                  = 37
+2776527 fclose(0xfb34e0 <unfinished ...>
+2776526 <... usleep resumed> )                   = <void>
+2776526 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776527 <... fclose resumed> )                   = 0
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776525 <... sem_wait resumed> )                 = 0
+2776527 rand( <unfinished ...>
+2776525 fopen("./proj2.out", "a" <unfinished ...>
+2776527 <... rand resumed> )                     = 1302333254
+2776527 usleep(4000 <unfinished ...>
+2776525 <... fopen resumed> )                    = 0xfb34e0
+2776525 fprintf(0xfb34e0, "%d: U %d: serving a service of t"..., 58, 1, 3) = 37
+2776525 fclose(0xfb34e0)                         = 0
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776533 <... sem_wait resumed> )                 = 0
+2776525 <... sem_post resumed> )                 = 0
+2776533 fopen("./proj2.out", "a" <unfinished ...>
+2776525 rand()                                   = 792051622
+2776525 usleep(2000 <unfinished ...>
+2776533 <... fopen resumed> )                    = 0xfb34e0
+2776533 fprintf(0xfb34e0, "%d: Z %d: going home\n", 59, 5) = 20
+2776533 fclose(0xfb34e0)                         = 0
+2776533 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776528 <... sem_wait resumed> )                 = 0
+2776533 exit(0 <unfinished ...>
+2776528 fopen("./proj2.out", "a")                = 0xfb34e0
+2776528 fprintf(0xfb34e0, "%d: U %d: service finished\n", 60, 4 <no return ...>
+2776533 +++ exited (status 0) +++
+2776524 --- SIGCHLD (Child exited) ---
+2776528 <... fprintf resumed> )                  = 26
+2776528 fclose(0xfb34e0)                         = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776526 <... sem_wait resumed> )                 = 0
+2776528 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776526 fopen("./proj2.out", "a" <unfinished ...>
+2776528 <... sem_wait resumed> )                 = 0
+2776528 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776528 rand( <unfinished ...>
+2776526 <... fopen resumed> )                    = 0xfb34e0
+2776526 fprintf(0xfb34e0, "%d: U %d: service finished\n", 61, 2 <unfinished ...>
+2776528 <... rand resumed> )                     = 1778927466
+2776528 sem_wait(0x7eff878f2000, 0x7ffc8491e584, 0, 0x6a08476a) = 0
+2776526 <... fprintf resumed> )                  = 26
+2776528 sem_post(0x7eff878f2000, 0x7ffc8491e584, 2, 0 <unfinished ...>
+2776526 fclose(0xfb34e0 <unfinished ...>
+2776528 <... sem_post resumed> )                 = 0
+2776528 sem_wait(0x7eff878f2000, 128, 1, 0)      = 0
+2776528 sem_post(0x7eff878f4000, 128, 0, 0 <unfinished ...>
+2776526 <... fclose resumed> )                   = 0
+2776526 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776528 <... sem_post resumed> )                 = 0
+2776526 <... sem_post resumed> )                 = 0
+2776535 <... sem_wait resumed> )                 = 0
+2776528 sem_post(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776535 sem_wait(0x7eff878f2000, 0, 0, 0x440801 <unfinished ...>
+2776528 <... sem_post resumed> )                 = 0
+2776535 <... sem_wait resumed> )                 = 0
+2776528 sem_wait(0x7eff878f3000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776535 sem_post(0x7eff878f2000, 0, 0x7eff878f0000, 0 <unfinished ...>
+2776528 <... sem_wait resumed> )                 = 0
+2776535 <... sem_post resumed> )                 = 0
+2776528 fopen("./proj2.out", "a" <unfinished ...>
+2776535 sem_wait(0x7eff878f3000, 128, 1, 0 <unfinished ...>
+2776526 sem_wait(0x7eff878f2000, 128, 1, 4019)   = 0
+2776526 sem_post(0x7eff878f2000, 128, 2, 4019 <unfinished ...>
+2776528 <... fopen resumed> )                    = 0xfb34e0
+2776528 fprintf(0xfb34e0, "%d: U %d: serving a service of t"..., 62, 4, 3 <unfinished ...>
+2776531 <... usleep resumed> )                   = <void>
+2776531 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776528 <... fprintf resumed> )                  = 37
+2776528 fclose(0xfb34e0 <unfinished ...>
+2776526 <... sem_post resumed> )                 = 0
+2776526 sem_wait(0x7eff878f3000, 128, 1, 4019 <unfinished ...>
+2776525 <... usleep resumed> )                   = <void>
+2776528 <... fclose resumed> )                   = 0
+2776525 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776525 <... sem_wait resumed> )                 = 0
+2776528 <... sem_post resumed> )                 = 0
+2776528 rand( <unfinished ...>
+2776525 fopen("./proj2.out", "a" <unfinished ...>
+2776528 <... rand resumed> )                     = 1328992282
+2776528 usleep(2000 <unfinished ...>
+2776525 <... fopen resumed> )                    = 0xfb34e0
+2776525 fprintf(0xfb34e0, "%d: U %d: service finished\n", 63, 1) = 26
+2776525 fclose(0xfb34e0)                         = 0
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776531 <... sem_wait resumed> )                 = 0
+2776525 <... sem_post resumed> )                 = 0
+2776531 fopen("./proj2.out", "a" <unfinished ...>
+2776525 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095) = 0
+2776525 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776531 <... fopen resumed> )                    = 0xfb34e0
+2776525 sem_wait(0x7eff878f3000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776531 fprintf(0xfb34e0, "%d: Z %d: going home\n", 64, 3 <unfinished ...>
+2776527 <... usleep resumed> )                   = <void>
+2776527 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776531 <... fprintf resumed> )                  = 20
+2776531 fclose(0xfb34e0)                         = 0
+2776531 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776526 <... sem_wait resumed> )                 = 0
+2776531 exit(0 <unfinished ...>
+2776526 fopen("./proj2.out", "a")                = 0xfb34e0
+2776531 +++ exited (status 0) +++
+2776526 fprintf(0xfb34e0, "%d: U %d: taking break\n", 65, 2 <no return ...>
+2776524 --- SIGCHLD (Child exited) ---
+2776526 <... fprintf resumed> )                  = 22
+2776526 fclose(0xfb34e0)                         = 0
+2776526 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776526 rand( <unfinished ...>
+2776535 <... sem_wait resumed> )                 = 0
+2776535 fopen("./proj2.out", "a" <unfinished ...>
+2776526 <... rand resumed> )                     = 656238380
+2776526 usleep(0 <unfinished ...>
+2776535 <... fopen resumed> )                    = 0xfb34e0
+2776535 fprintf(0xfb34e0, "%d: Z %d: called by office worke"..., 66, 7 <unfinished ...>
+2776526 <... usleep resumed> )                   = <void>
+2776526 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776535 <... fprintf resumed> )                  = 33
+2776535 fclose(0xfb34e0 <unfinished ...>
+2776528 <... usleep resumed> )                   = <void>
+2776528 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776535 <... fclose resumed> )                   = 0
+2776535 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776527 <... sem_wait resumed> )                 = 0
+2776535 rand( <unfinished ...>
+2776527 fopen("./proj2.out", "a" <unfinished ...>
+2776535 <... rand resumed> )                     = 1157094415
+2776535 usleep(5000 <unfinished ...>
+2776527 <... fopen resumed> )                    = 0xfb34e0
+2776527 fprintf(0xfb34e0, "%d: U %d: service finished\n", 67, 3) = 26
+2776527 fclose(0xfb34e0)                         = 0
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776525 <... sem_wait resumed> )                 = 0
+2776527 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776525 fopen("./proj2.out", "a" <unfinished ...>
+2776527 <... sem_wait resumed> )                 = 0
+2776527 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776527 sem_wait(0x7eff878f3000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776525 <... fopen resumed> )                    = 0xfb34e0
+2776525 fprintf(0xfb34e0, "%d: U %d: taking break\n", 68, 1) = 22
+2776525 fclose(0xfb34e0)                         = 0
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776525 rand( <unfinished ...>
+2776526 <... sem_wait resumed> )                 = 0
+2776526 fopen("./proj2.out", "a" <unfinished ...>
+2776525 <... rand resumed> )                     = 1427610110
+2776525 usleep(10000 <unfinished ...>
+2776526 <... fopen resumed> )                    = 0xfb34e0
+2776526 fprintf(0xfb34e0, "%d: U %d: break finished\n", 69, 2) = 24
+2776526 fclose(0xfb34e0)                         = 0
+2776526 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776528 <... sem_wait resumed> )                 = 0
+2776526 <... sem_post resumed> )                 = 0
+2776528 fopen("./proj2.out", "a" <unfinished ...>
+2776526 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095) = 0
+2776526 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776528 <... fopen resumed> )                    = 0xfb34e0
+2776526 sem_wait(0x7eff878f3000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776528 fprintf(0xfb34e0, "%d: U %d: service finished\n", 70, 4) = 26
+2776528 fclose(0xfb34e0)                         = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776527 <... sem_wait resumed> )                 = 0
+2776528 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776527 fopen("./proj2.out", "a" <unfinished ...>
+2776528 <... sem_wait resumed> )                 = 0
+2776528 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776528 sem_wait(0x7eff878f3000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776527 <... fopen resumed> )                    = 0xfb34e0
+2776527 fprintf(0xfb34e0, "%d: U %d: taking break\n", 71, 3) = 22
+2776527 fclose(0xfb34e0)                         = 0
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776526 <... sem_wait resumed> )                 = 0
+2776527 rand( <unfinished ...>
+2776526 fopen("./proj2.out", "a" <unfinished ...>
+2776527 <... rand resumed> )                     = 551113179
+2776527 usleep(19000 <unfinished ...>
+2776526 <... fopen resumed> )                    = 0xfb34e0
+2776526 fprintf(0xfb34e0, "%d: U %d: taking break\n", 72, 2) = 22
+2776526 fclose(0xfb34e0)                         = 0
+2776526 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776528 <... sem_wait resumed> )                 = 0
+2776526 <... sem_post resumed> )                 = 0
+2776528 fopen("./proj2.out", "a" <unfinished ...>
+2776526 rand()                                   = 1907991008
+2776526 usleep(8000 <unfinished ...>
+2776528 <... fopen resumed> )                    = 0xfb34e0
+2776528 fprintf(0xfb34e0, "%d: U %d: taking break\n", 73, 4) = 22
+2776528 fclose(0xfb34e0)                         = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776528 rand()                                   = 1062374278
+2776528 usleep(18000 <unfinished ...>
+2776535 <... usleep resumed> )                   = <void>
+2776535 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea) = 0
+2776535 fopen("./proj2.out", "a")                = 0xfb34e0
+2776535 fprintf(0xfb34e0, "%d: Z %d: going home\n", 74, 7) = 20
+2776535 fclose(0xfb34e0)                         = 0
+2776535 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776535 exit(0 <no return ...>
+2776535 +++ exited (status 0) +++
+2776524 --- SIGCHLD (Child exited) ---
+2776525 <... usleep resumed> )                   = <void>
+2776525 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776526 <... usleep resumed> )                   = <void>
+2776525 <... sem_wait resumed> )                 = 0
+2776526 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776525 fopen("./proj2.out", "a")                = 0xfb34e0
+2776525 fprintf(0xfb34e0, "%d: U %d: break finished\n", 75, 1) = 24
+2776525 fclose(0xfb34e0)                         = 0
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776525 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776526 <... sem_wait resumed> )                 = 0
+2776526 fopen("./proj2.out", "a" <unfinished ...>
+2776525 <... sem_wait resumed> )                 = 0
+2776525 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776525 sem_wait(0x7eff878f3000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776526 <... fopen resumed> )                    = 0xfb34e0
+2776526 fprintf(0xfb34e0, "%d: U %d: break finished\n", 76, 2) = 24
+2776526 fclose(0xfb34e0)                         = 0
+2776526 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776525 <... sem_wait resumed> )                 = 0
+2776526 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776525 fopen("./proj2.out", "a" <unfinished ...>
+2776526 <... sem_wait resumed> )                 = 0
+2776526 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776526 sem_wait(0x7eff878f3000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776525 <... fopen resumed> )                    = 0xfb34e0
+2776525 fprintf(0xfb34e0, "%d: U %d: taking break\n", 77, 1) = 22
+2776525 fclose(0xfb34e0)                         = 0
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776526 <... sem_wait resumed> )                 = 0
+2776525 <... sem_post resumed> )                 = 0
+2776526 fopen("./proj2.out", "a" <unfinished ...>
+2776525 rand()                                   = 1153222586
+2776525 usleep(6000 <unfinished ...>
+2776526 <... fopen resumed> )                    = 0xfb34e0
+2776526 fprintf(0xfb34e0, "%d: U %d: taking break\n", 78, 2) = 22
+2776526 fclose(0xfb34e0)                         = 0
+2776526 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776526 rand()                                   = 1930959277
+2776526 usleep(17000 <unfinished ...>
+2776525 <... usleep resumed> )                   = <void>
+2776525 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea) = 0
+2776525 fopen("./proj2.out", "a")                = 0xfb34e0
+2776525 fprintf(0xfb34e0, "%d: U %d: break finished\n", 79, 1) = 24
+2776525 fclose(0xfb34e0)                         = 0
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776525 sem_wait(0x7eff878f2000, 128, 1, 4019)   = 0
+2776525 sem_post(0x7eff878f2000, 128, 2, 4019)   = 0
+2776525 sem_wait(0x7eff878f3000, 128, 1, 4019)   = 0
+2776525 fopen("./proj2.out", "a")                = 0xfb34e0
+2776525 fprintf(0xfb34e0, "%d: U %d: taking break\n", 80, 1) = 22
+2776525 fclose(0xfb34e0)                         = 0
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776525 rand()                                   = 239172968
+2776525 usleep(8000 <unfinished ...>
+2776528 <... usleep resumed> )                   = <void>
+2776528 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776527 <... usleep resumed> )                   = <void>
+2776528 <... sem_wait resumed> )                 = 0
+2776528 fopen("./proj2.out", "a" <unfinished ...>
+2776527 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776528 <... fopen resumed> )                    = 0xfb34e0
+2776528 fprintf(0xfb34e0, "%d: U %d: break finished\n", 81, 4) = 24
+2776528 fclose(0xfb34e0)                         = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776527 <... sem_wait resumed> )                 = 0
+2776528 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776527 fopen("./proj2.out", "a" <unfinished ...>
+2776528 <... sem_wait resumed> )                 = 0
+2776528 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776528 sem_wait(0x7eff878f3000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776527 <... fopen resumed> )                    = 0xfb34e0
+2776527 fprintf(0xfb34e0, "%d: U %d: break finished\n", 82, 3) = 24
+2776527 fclose(0xfb34e0)                         = 0
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776528 <... sem_wait resumed> )                 = 0
+2776527 <... sem_post resumed> )                 = 0
+2776528 fopen("./proj2.out", "a" <unfinished ...>
+2776527 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095) = 0
+2776527 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776528 <... fopen resumed> )                    = 0xfb34e0
+2776527 sem_wait(0x7eff878f3000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776528 fprintf(0xfb34e0, "%d: U %d: taking break\n", 83, 4) = 22
+2776528 fclose(0xfb34e0)                         = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776527 <... sem_wait resumed> )                 = 0
+2776528 rand( <unfinished ...>
+2776527 fopen("./proj2.out", "a" <unfinished ...>
+2776528 <... rand resumed> )                     = 1322741434
+2776528 usleep(14000 <unfinished ...>
+2776527 <... fopen resumed> )                    = 0xfb34e0
+2776527 fprintf(0xfb34e0, "%d: U %d: taking break\n", 84, 3) = 22
+2776527 fclose(0xfb34e0)                         = 0
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776527 rand()                                   = 427577185
+2776527 usleep(5000 <unfinished ...>
+2776525 <... usleep resumed> )                   = <void>
+2776525 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776527 <... usleep resumed> )                   = <void>
+2776525 <... sem_wait resumed> )                 = 0
+2776527 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776525 fopen("./proj2.out", "a")                = 0xfb34e0
+2776525 fprintf(0xfb34e0, "%d: U %d: break finished\n", 85, 1) = 24
+2776525 fclose(0xfb34e0)                         = 0
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776527 <... sem_wait resumed> )                 = 0
+2776525 <... sem_post resumed> )                 = 0
+2776527 fopen("./proj2.out", "a" <unfinished ...>
+2776525 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095) = 0
+2776525 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776527 <... fopen resumed> )                    = 0xfb34e0
+2776525 sem_wait(0x7eff878f3000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776527 fprintf(0xfb34e0, "%d: U %d: break finished\n", 86, 3) = 24
+2776527 fclose(0xfb34e0)                         = 0
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776525 <... sem_wait resumed> )                 = 0
+2776527 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776525 fopen("./proj2.out", "a" <unfinished ...>
+2776527 <... sem_wait resumed> )                 = 0
+2776527 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776527 sem_wait(0x7eff878f3000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776525 <... fopen resumed> )                    = 0xfb34e0
+2776525 fprintf(0xfb34e0, "%d: U %d: taking break\n", 87, 1) = 22
+2776525 fclose(0xfb34e0)                         = 0
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776526 <... usleep resumed> )                   = <void>
+2776527 <... sem_wait resumed> )                 = 0
+2776526 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776527 fopen("./proj2.out", "a" <unfinished ...>
+2776525 <... sem_post resumed> )                 = 0
+2776525 rand()                                   = 1499379450
+2776527 <... fopen resumed> )                    = 0xfb34e0
+2776525 usleep(10000 <unfinished ...>
+2776527 fprintf(0xfb34e0, "%d: U %d: taking break\n", 88, 3) = 22
+2776527 fclose(0xfb34e0)                         = 0
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776527 rand()                                   = 664009229
+2776527 usleep(9000 <unfinished ...>
+2776526 <... sem_wait resumed> )                 = 0
+2776526 fopen("./proj2.out", "a")                = 0xfb34e0
+2776526 fprintf(0xfb34e0, "%d: U %d: break finished\n", 89, 2) = 24
+2776526 fclose(0xfb34e0)                         = 0
+2776526 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776526 sem_wait(0x7eff878f2000, 128, 1, 4019)   = 0
+2776526 sem_post(0x7eff878f2000, 128, 2, 4019)   = 0
+2776526 sem_wait(0x7eff878f3000, 128, 1, 4019)   = 0
+2776526 fopen("./proj2.out", "a")                = 0xfb34e0
+2776526 fprintf(0xfb34e0, "%d: U %d: taking break\n", 90, 2) = 22
+2776526 fclose(0xfb34e0)                         = 0
+2776526 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776526 rand()                                   = 879339716
+2776526 usleep(16000 <unfinished ...>
+2776528 <... usleep resumed> )                   = <void>
+2776528 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea) = 0
+2776528 fopen("./proj2.out", "a")                = 0xfb34e0
+2776528 fprintf(0xfb34e0, "%d: U %d: break finished\n", 91, 4) = 24
+2776528 fclose(0xfb34e0)                         = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776528 sem_wait(0x7eff878f2000, 128, 1, 4019)   = 0
+2776528 sem_post(0x7eff878f2000, 128, 2, 4019)   = 0
+2776528 sem_wait(0x7eff878f3000, 128, 1, 4019)   = 0
+2776528 fopen("./proj2.out", "a")                = 0xfb34e0
+2776528 fprintf(0xfb34e0, "%d: U %d: taking break\n", 92, 4) = 22
+2776528 fclose(0xfb34e0)                         = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776528 rand()                                   = 1747524220
+2776528 usleep(0)                                = <void>
+2776528 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea) = 0
+2776528 fopen("./proj2.out", "a")                = 0xfb34e0
+2776528 fprintf(0xfb34e0, "%d: U %d: break finished\n", 93, 4) = 24
+2776528 fclose(0xfb34e0)                         = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776528 sem_wait(0x7eff878f2000, 128, 1, 4019)   = 0
+2776528 sem_post(0x7eff878f2000, 128, 2, 4019)   = 0
+2776528 sem_wait(0x7eff878f3000, 128, 1, 4019)   = 0
+2776528 fopen("./proj2.out", "a")                = 0xfb34e0
+2776528 fprintf(0xfb34e0, "%d: U %d: taking break\n", 94, 4) = 22
+2776528 fclose(0xfb34e0)                         = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776528 rand()                                   = 2085071684
+2776528 usleep(4000 <unfinished ...>
+2776527 <... usleep resumed> )                   = <void>
+2776527 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea) = 0
+2776527 fopen("./proj2.out", "a")                = 0xfb34e0
+2776527 fprintf(0xfb34e0, "%d: U %d: break finished\n", 95, 3) = 24
+2776527 fclose(0xfb34e0)                         = 0
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776525 <... usleep resumed> )                   = <void>
+2776527 <... sem_post resumed> )                 = 0
+2776525 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776527 sem_wait(0x7eff878f2000, 128, 1, 4019 <unfinished ...>
+2776525 <... sem_wait resumed> )                 = 0
+2776527 <... sem_wait resumed> )                 = 0
+2776525 fopen("./proj2.out", "a" <unfinished ...>
+2776527 sem_post(0x7eff878f2000, 128, 2, 4019)   = 0
+2776527 sem_wait(0x7eff878f3000, 128, 1, 4019 <unfinished ...>
+2776525 <... fopen resumed> )                    = 0xfb34e0
+2776525 fprintf(0xfb34e0, "%d: U %d: break finished\n", 96, 1) = 24
+2776525 fclose(0xfb34e0)                         = 0
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776527 <... sem_wait resumed> )                 = 0
+2776525 <... sem_post resumed> )                 = 0
+2776527 fopen("./proj2.out", "a" <unfinished ...>
+2776525 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095) = 0
+2776525 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776527 <... fopen resumed> )                    = 0xfb34e0
+2776525 sem_wait(0x7eff878f3000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776527 fprintf(0xfb34e0, "%d: U %d: taking break\n", 97, 3) = 22
+2776527 fclose(0xfb34e0)                         = 0
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776525 <... sem_wait resumed> )                 = 0
+2776527 rand( <unfinished ...>
+2776525 fopen("./proj2.out", "a" <unfinished ...>
+2776527 <... rand resumed> )                     = 1562491830
+2776527 usleep(10000 <unfinished ...>
+2776525 <... fopen resumed> )                    = 0xfb34e0
+2776525 fprintf(0xfb34e0, "%d: U %d: taking break\n", 98, 1) = 22
+2776525 fclose(0xfb34e0)                         = 0
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776525 rand()                                   = 130778551
+2776525 usleep(11000 <unfinished ...>
+2776528 <... usleep resumed> )                   = <void>
+2776528 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea) = 0
+2776528 fopen("./proj2.out", "a")                = 0xfb34e0
+2776528 fprintf(0xfb34e0, "%d: U %d: break finished\n", 99, 4) = 24
+2776528 fclose(0xfb34e0)                         = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776528 sem_wait(0x7eff878f2000, 128, 1, 4019)   = 0
+2776528 sem_post(0x7eff878f2000, 128, 2, 4019)   = 0
+2776528 sem_wait(0x7eff878f3000, 128, 1, 4019)   = 0
+2776528 fopen("./proj2.out", "a")                = 0xfb34e0
+2776528 fprintf(0xfb34e0, "%d: U %d: taking break\n", 100, 4) = 23
+2776528 fclose(0xfb34e0)                         = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776528 rand()                                   = 574889169
+2776528 usleep(9000 <unfinished ...>
+2776526 <... usleep resumed> )                   = <void>
+2776526 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea) = 0
+2776526 fopen("./proj2.out", "a")                = 0xfb34e0
+2776526 fprintf(0xfb34e0, "%d: U %d: break finished\n", 101, 2) = 25
+2776526 fclose(0xfb34e0)                         = 0
+2776526 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776526 sem_wait(0x7eff878f2000, 128, 1, 4019)   = 0
+2776526 sem_post(0x7eff878f2000, 128, 2, 4019)   = 0
+2776526 sem_wait(0x7eff878f3000, 128, 1, 4019)   = 0
+2776526 fopen("./proj2.out", "a")                = 0xfb34e0
+2776526 fprintf(0xfb34e0, "%d: U %d: taking break\n", 102, 2) = 23
+2776526 fclose(0xfb34e0)                         = 0
+2776526 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776526 rand()                                   = 15604625
+2776526 usleep(5000 <unfinished ...>
+2776527 <... usleep resumed> )                   = <void>
+2776527 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea) = 0
+2776527 fopen("./proj2.out", "a")                = 0xfb34e0
+2776527 fprintf(0xfb34e0, "%d: U %d: break finished\n", 103, 3) = 25
+2776527 fclose(0xfb34e0)                         = 0
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776527 sem_wait(0x7eff878f2000, 128, 1, 4019)   = 0
+2776527 sem_post(0x7eff878f2000, 128, 2, 4019)   = 0
+2776527 sem_wait(0x7eff878f3000, 128, 1, 4019)   = 0
+2776527 fopen("./proj2.out", "a")                = 0xfb34e0
+2776527 fprintf(0xfb34e0, "%d: U %d: taking break\n", 104, 3) = 23
+2776527 fclose(0xfb34e0)                         = 0
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776527 rand()                                   = 2063191528
+2776527 usleep(8000 <unfinished ...>
+2776525 <... usleep resumed> )                   = <void>
+2776525 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea) = 0
+2776525 fopen("./proj2.out", "a")                = 0xfb34e0
+2776525 fprintf(0xfb34e0, "%d: U %d: break finished\n", 105, 1) = 25
+2776525 fclose(0xfb34e0)                         = 0
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776528 <... usleep resumed> )                   = <void>
+2776528 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776525 <... sem_post resumed> )                 = 0
+2776525 sem_wait(0x7eff878f2000, 128, 1, 4019 <unfinished ...>
+2776528 <... sem_wait resumed> )                 = 0
+2776528 fopen("./proj2.out", "a" <unfinished ...>
+2776525 <... sem_wait resumed> )                 = 0
+2776525 sem_post(0x7eff878f2000, 128, 2, 4019)   = 0
+2776525 sem_wait(0x7eff878f3000, 128, 1, 4019 <unfinished ...>
+2776528 <... fopen resumed> )                    = 0xfb34e0
+2776528 fprintf(0xfb34e0, "%d: U %d: break finished\n", 106, 4 <unfinished ...>
+2776526 <... usleep resumed> )                   = <void>
+2776528 <... fprintf resumed> )                  = 25
+2776526 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776528 fclose(0xfb34e0)                         = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776525 <... sem_wait resumed> )                 = 0
+2776528 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776525 fopen("./proj2.out", "a" <unfinished ...>
+2776528 <... sem_wait resumed> )                 = 0
+2776528 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776528 sem_wait(0x7eff878f3000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776525 <... fopen resumed> )                    = 0xfb34e0
+2776525 fprintf(0xfb34e0, "%d: U %d: taking break\n", 107, 1) = 23
+2776525 fclose(0xfb34e0)                         = 0
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776525 rand( <unfinished ...>
+2776526 <... sem_wait resumed> )                 = 0
+2776526 fopen("./proj2.out", "a" <unfinished ...>
+2776525 <... rand resumed> )                     = 955173958
+2776525 usleep(18000 <unfinished ...>
+2776526 <... fopen resumed> )                    = 0xfb34e0
+2776526 fprintf(0xfb34e0, "%d: U %d: break finished\n", 108, 2) = 25
+2776526 fclose(0xfb34e0)                         = 0
+2776526 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776528 <... sem_wait resumed> )                 = 0
+2776526 <... sem_post resumed> )                 = 0
+2776528 fopen("./proj2.out", "a" <unfinished ...>
+2776526 sem_wait(0x7eff878f2000, 1, 1, 0x7eff878ae095) = 0
+2776526 sem_post(0x7eff878f2000, 1, 2, 0x7eff878ae095) = 0
+2776528 <... fopen resumed> )                    = 0xfb34e0
+2776526 sem_wait(0x7eff878f3000, 128, 1, 0x7eff878ae095 <unfinished ...>
+2776528 fprintf(0xfb34e0, "%d: U %d: taking break\n", 109, 4) = 23
+2776528 fclose(0xfb34e0)                         = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776526 <... sem_wait resumed> )                 = 0
+2776528 rand( <unfinished ...>
+2776526 fopen("./proj2.out", "a" <unfinished ...>
+2776528 <... rand resumed> )                     = 969537559
+2776528 usleep(19000 <unfinished ...>
+2776526 <... fopen resumed> )                    = 0xfb34e0
+2776526 fprintf(0xfb34e0, "%d: U %d: taking break\n", 110, 2) = 23
+2776526 fclose(0xfb34e0)                         = 0
+2776526 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776526 rand()                                   = 1389406418
+2776526 usleep(18000 <unfinished ...>
+2776527 <... usleep resumed> )                   = <void>
+2776527 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea) = 0
+2776527 fopen("./proj2.out", "a")                = 0xfb34e0
+2776527 fprintf(0xfb34e0, "%d: U %d: break finished\n", 111, 3) = 25
+2776527 fclose(0xfb34e0)                         = 0
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776527 sem_wait(0x7eff878f2000, 128, 1, 4019)   = 0
+2776527 sem_post(0x7eff878f2000, 128, 2, 4019)   = 0
+2776527 sem_wait(0x7eff878f3000, 128, 1, 4019)   = 0
+2776527 fopen("./proj2.out", "a")                = 0xfb34e0
+2776527 fprintf(0xfb34e0, "%d: U %d: taking break\n", 112, 3) = 23
+2776527 fclose(0xfb34e0)                         = 0
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776527 rand()                                   = 1297917604
+2776527 usleep(4000 <unfinished ...>
+2776524 <... usleep resumed> )                   = <void>
+2776524 sem_wait(0x7eff878f1000, 0, 0, 0x7eff87794aea) = 0
+2776524 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776527 <... usleep resumed> )                   = <void>
+2776524 <... sem_wait resumed> )                 = 0
+2776527 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776524 fopen("./proj2.out", "a")                = 0xfb34e0
+2776524 fprintf(0xfb34e0, "%d: closing\n", 113)  = 13
+2776524 fclose(0xfb34e0)                         = 0
+2776524 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776527 <... sem_wait resumed> )                 = 0
+2776524 sem_post(0x7eff878f1000, 1, 1, 0x7eff878ae095 <unfinished ...>
+2776527 fopen("./proj2.out", "a" <unfinished ...>
+2776524 <... sem_post resumed> )                 = 0
+2776524 getpid( <unfinished ...>
+2776527 <... fopen resumed> )                    = 0xfb34e0
+2776524 <... getpid resumed> )                   = 2776524
+2776527 fprintf(0xfb34e0, "%d: U %d: break finished\n", 114, 3 <unfinished ...>
+2776524 wait(nil <unfinished ...>
+2776527 <... fprintf resumed> )                  = 25
+2776524 <... wait resumed> )                     = 2776529
+2776527 fclose(0xfb34e0 <unfinished ...>
+2776524 wait(nil)                                = 2776530
+2776524 wait(nil <unfinished ...>
+2776527 <... fclose resumed> )                   = 0
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776524 <... wait resumed> )                     = 2776531
+2776527 <... sem_post resumed> )                 = 0
+2776524 wait(nil <unfinished ...>
+2776527 sem_wait(0x7eff878f2000, 128, 1, 4019)   = 0
+2776527 sem_post(0x7eff878f2000, 128, 2, 4019 <unfinished ...>
+2776524 <... wait resumed> )                     = 2776532
+2776524 wait(nil <unfinished ...>
+2776527 <... sem_post resumed> )                 = 0
+2776527 sem_wait(0x7eff878f3000, 128, 1, 4019)   = 0
+2776524 <... wait resumed> )                     = 2776533
+2776527 fopen("./proj2.out", "a" <unfinished ...>
+2776524 wait(nil)                                = 2776534
+2776524 wait(nil <unfinished ...>
+2776527 <... fopen resumed> )                    = 0xfb34e0
+2776527 fprintf(0xfb34e0, "%d: U %d: going home\n", 115, 3 <unfinished ...>
+2776524 <... wait resumed> )                     = 2776535
+2776524 wait(nil <unfinished ...>
+2776527 <... fprintf resumed> )                  = 21
+2776527 fclose(0xfb34e0 <unfinished ...>
+2776524 <... wait resumed> )                     = 2776536
+2776524 wait(nil <unfinished ...>
+2776527 <... fclose resumed> )                   = 0
+2776524 <... wait resumed> )                     = 2776537
+2776527 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019 <unfinished ...>
+2776524 wait(nil <unfinished ...>
+2776527 <... sem_post resumed> )                 = 0
+2776527 exit(0 <unfinished ...>
+2776524 <... wait resumed> )                     = 2776538
+2776524 wait(nil <no return ...>
+2776527 +++ exited (status 0) +++
+2776524 --- SIGCHLD (Child exited) ---
+2776524 <... wait resumed> )                     = 2776527
+2776524 wait(nil <unfinished ...>
+2776525 <... usleep resumed> )                   = <void>
+2776525 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea) = 0
+2776525 fopen("./proj2.out", "a")                = 0xfb34e0
+2776525 fprintf(0xfb34e0, "%d: U %d: break finished\n", 116, 1) = 25
+2776525 fclose(0xfb34e0)                         = 0
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776525 sem_wait(0x7eff878f2000, 128, 1, 4019)   = 0
+2776525 sem_post(0x7eff878f2000, 128, 2, 4019)   = 0
+2776525 sem_wait(0x7eff878f3000, 128, 1, 4019)   = 0
+2776525 fopen("./proj2.out", "a")                = 0xfb34e0
+2776525 fprintf(0xfb34e0, "%d: U %d: going home\n", 117, 1) = 21
+2776525 fclose(0xfb34e0)                         = 0
+2776525 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776525 exit(0 <no return ...>
+2776525 +++ exited (status 0) +++
+2776526 <... usleep resumed> )                   = <void>
+2776524 --- SIGCHLD (Child exited) ---
+2776526 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776524 <... wait resumed> )                     = 2776525
+2776524 wait(nil <unfinished ...>
+2776526 <... sem_wait resumed> )                 = 0
+2776526 fopen("./proj2.out", "a")                = 0xfb34e0
+2776526 fprintf(0xfb34e0, "%d: U %d: break finished\n", 118, 2) = 25
+2776526 fclose(0xfb34e0)                         = 0
+2776526 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776526 sem_wait(0x7eff878f2000, 128, 1, 4019 <unfinished ...>
+2776528 <... usleep resumed> )                   = <void>
+2776526 <... sem_wait resumed> )                 = 0
+2776526 sem_post(0x7eff878f2000, 128, 2, 4019 <unfinished ...>
+2776528 sem_wait(0x7eff878f3000, 0, 0, 0x7eff87794aea <unfinished ...>
+2776526 <... sem_post resumed> )                 = 0
+2776526 sem_wait(0x7eff878f3000, 128, 1, 4019)   = 0
+2776526 fopen("./proj2.out", "a")                = 0xfb34e0
+2776526 fprintf(0xfb34e0, "%d: U %d: going home\n", 119, 2) = 21
+2776526 fclose(0xfb34e0)                         = 0
+2776526 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776526 exit(0 <unfinished ...>
+2776528 <... sem_wait resumed> )                 = 0
+2776528 fopen("./proj2.out", "a")                = 0xfb34e0
+2776526 +++ exited (status 0) +++
+2776528 fprintf(0xfb34e0, "%d: U %d: break finished\n", 120, 4 <no return ...>
+2776524 --- SIGCHLD (Child exited) ---
+2776524 <... wait resumed> )                     = 2776526
+2776528 <... fprintf resumed> )                  = 25
+2776524 wait(nil <unfinished ...>
+2776528 fclose(0xfb34e0)                         = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776528 sem_wait(0x7eff878f2000, 128, 1, 4019)   = 0
+2776528 sem_post(0x7eff878f2000, 128, 2, 4019)   = 0
+2776528 sem_wait(0x7eff878f3000, 128, 1, 4019)   = 0
+2776528 fopen("./proj2.out", "a")                = 0xfb34e0
+2776528 fprintf(0xfb34e0, "%d: U %d: going home\n", 121, 4) = 21
+2776528 fclose(0xfb34e0)                         = 0
+2776528 sem_post(0x7eff878f3000, 0xfb3010, 28, 4019) = 0
+2776528 exit(0 <no return ...>
+2776528 +++ exited (status 0) +++
+2776524 --- SIGCHLD (Child exited) ---
+2776524 <... wait resumed> )                     = 2776528
+2776524 wait(nil)                                = -1
+2776524 sem_close(0x7eff878f6000, 0, -120, 0x7eff87799aca) = 0
+2776524 sem_close(0x7eff878f5000, 0xfb3010, 1, 4019) = 0
+2776524 sem_close(0x7eff878f4000, 0xfb3010, 1, 0xfb3d13) = 0
+2776524 sem_close(0x7eff878f3000, 0xfb3010, 1, 0xfb3cb3) = 0
+2776524 sem_close(0x7eff878f2000, 0xfb3010, 1, 0xfb3cd3) = 0
+2776524 sem_close(0x7eff878f1000, 0xfb3010, 1, 0xfb3c73) = 0
+2776524 shmctl(0x98033, 0, 0, 0xfb3b93)          = 0
+2776524 shmdt(0x7eff878f0000, 0, 0, 0x7eff877cf631) = 0
+2776524 +++ exited (status 0) +++

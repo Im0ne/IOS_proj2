@@ -1,0 +1,101 @@
+1: U 1: started
+2: U 4: started
+3: U 3: started
+4: U 9: started
+5: U 5: started
+6: Z 3: started
+7: U 7: started
+8: U 1: taking break
+9: U 8: started
+10: U 2: started
+11: U 4: taking break
+12: U 10: started
+13: Z 1: started
+14: U 3: taking break
+15: U 6: started
+16: Z 19: started
+17: U 9: taking break
+18: Z 4: started
+19: U 5: taking break
+20: Z 5: started
+21: Z 6: started
+22: Z 7: started
+23: U 7: taking break
+24: Z 8: started
+25: Z 9: started
+26: Z 10: started
+27: Z 11: started
+28: Z 37: started
+29: Z 12: started
+30: Z 13: started
+31: U 2: taking break
+32: Z 14: started
+33: Z 15: started
+34: Z 16: started
+35: U 10: taking break
+36: Z 17: started
+37: Z 18: started
+38: Z 2: started
+39: Z 20: started
+40: Z 21: started
+41: U 6: taking break
+42: Z 22: started
+43: Z 23: started
+44: Z 24: started
+45: Z 25: started
+46: Z 26: started
+47: U 1: break finished
+48: Z 27: started
+49: Z 4: entering office for a service 2
+50: U 1: taking break
+51: Z 29: started
+52: Z 30: started
+53: Z 31: started
+54: Z 32: started
+55: Z 33: started
+56: Z 34: started
+57: Z 35: started
+58: Z 36: started
+59: U 3: break finished
+60: U 8: taking break
+61: Z 38: started
+62: Z 39: started
+63: Z 40: started
+64: Z 41: started
+65: Z 42: started
+66: Z 43: started
+67: Z 44: started
+68: Z 45: started
+69: U 2: break finished
+70: Z 46: started
+71: Z 47: started
+72: Z 48: started
+73: Z 49: started
+74: Z 50: started
+75: U 10: break finished
+76: U 9: break finished
+77: U 10: taking break
+78: U 1: break finished
+79: Z 3: entering office for a service 3
+80: U 5: break finished
+81: U 1: taking break
+82: U 3: serving a service of type 2
+83: Z 4: called by office worker
+84: U 4: break finished
+85: U 2: taking break
+86: Z 28: started
+87: U 9: taking break
+88: U 8: break finished
+89: Z 18: entering office for a service 2
+90: U 5: serving a service of type 3
+91: Z 3: called by office worker
+92: U 7: break finished
+93: Z 3: going home
+94: U 6: break finished
+95: U 2: break finished
+96: U 3: service finished
+97: U 9: break finished
+98: U 1: break finished
+99: U 5: service finished
+100: U 10: break finished
+101: Z 4: going home

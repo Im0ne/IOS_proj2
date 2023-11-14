@@ -1,0 +1,4 @@
+= resources
+: pocet procesu ok (14, mel by byt 14)
+: pocet volani wait (waitpid) ok
+grep: type: No such file or directory

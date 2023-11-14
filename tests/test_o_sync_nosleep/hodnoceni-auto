@@ -1,0 +1,2 @@
+:test_o_sync_nosleep: chyba v poradi/typu, nebo poctu obslouzenych sluzeb (viz 1-sync1.log): chyba v synchronizaci
+0:fail:test_o_sync_nosleep:  synchronizace poradi, typu a poctu obslouzenych sluzeb + prace urednika (zruseno cekani pomoci usleep apod.)
